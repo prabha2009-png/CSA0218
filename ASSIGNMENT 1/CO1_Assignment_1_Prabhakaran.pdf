@@ -1,0 +1,1493 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (CSA02 C Programming \055 Assignment 1 \050CO1\051 \055 Prabhakaran C)
+/Author (Prabhakaran C)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 9
+/Kids [ 5 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 3037
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 725.3386 cm
+Q
+q
+1 0 0 1 57.02362 697.3386 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 74.95417 0 Td (S A V E E T H A I N S T I T U T E) Tj T* -74.95417 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.3386 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 121.5982 0 Td (OF MEDICAL AND TECHNICAL SCIENCES) Tj T* -121.5982 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 614.315 cm
+Q
+q
+1 0 0 1 57.02362 586.315 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 158.1032 0 Td (ASSIGNMENT 1) Tj T* -158.1032 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 554.315 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 106.6042 0 Td (C PROGRAMMING \227 COURSE OUTCOME CO1) Tj T* -106.6042 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 514.6299 cm
+Q
+q
+1 0 0 1 57.02362 362.6299 cm
+q
+.862745 .901961 .945098 rg
+n 0 152 453.5433 -19 re f*
+.090196 .211765 .364706 rg
+BT /F2 9 Tf 11 TL ET
+BT 1 0 0 1 5 139 Tm (Student Details) Tj T* ET
+BT 1 0 0 1 141.063 139 Tm (Information) Tj T* ET
+0 0 0 rg
+BT /F1 9 Tf 11 TL ET
+BT 1 0 0 1 5 120 Tm (Student Name) Tj T* ET
+BT 1 0 0 1 141.063 120 Tm (Prabhakaran C) Tj T* ET
+BT 1 0 0 1 5 101 Tm (Register Number) Tj T* ET
+BT 1 0 0 1 141.063 101 Tm (1912260199) Tj T* ET
+BT 1 0 0 1 5 82 Tm (Programme) Tj T* ET
+BT 1 0 0 1 141.063 82 Tm (B.E. / B.Tech) Tj T* ET
+BT 1 0 0 1 5 63 Tm (Course Code) Tj T* ET
+BT 1 0 0 1 141.063 63 Tm (CSA02) Tj T* ET
+BT 1 0 0 1 5 44 Tm (Course Name) Tj T* ET
+BT 1 0 0 1 141.063 44 Tm (C Programming) Tj T* ET
+BT 1 0 0 1 5 25 Tm (Course Outcome) Tj T* ET
+BT 1 0 0 1 141.063 25 Tm (CO1) Tj T* ET
+BT 1 0 0 1 5 6 Tm (Assignment) Tj T* ET
+BT 1 0 0 1 141.063 6 Tm (Design, Implement and Validate a Reliable Billing Program for a Rural Electricity Co-operative) Tj T* ET
+q
+1 J
+1 j
+.666667 .717647 .768627 RG
+.35 w
+n 0 152 m 453.5433 152 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 152 l S
+n 453.5433 0 m 453.5433 152 l S
+n 0 133 m 453.5433 133 l S
+n 0 114 m 453.5433 114 l S
+n 0 95 m 453.5433 95 l S
+n 0 76 m 453.5433 76 l S
+n 0 57 m 453.5433 57 l S
+n 0 38 m 453.5433 38 l S
+n 0 19 m 453.5433 19 l S
+n 136.063 0 m 136.063 152 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 355.6299 cm
+Q
+q
+1 0 0 1 57.02362 323.2299 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F2 9.2 Tf 0 0 0 rg (GitHub Repository:) Tj /F1 9.2 Tf  T* 0 0 1 rg (https://github.com/prabha2009-png/CSA0218/tree/main/ASSIGNMENT%201) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 288.8835 cm
+Q
+q
+1 0 0 1 57.02362 259.8835 cm
+q
+.839216 .658824 .294118 RG
+.6 w
+1 .976471 .913725 rg
+n -7 -7 495.2283 38 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 15.5 Tm /F1 8.5 Tf 12 TL (Submitted as an academic working report. Compile and run the programs on your own system, add your actual screenshots,) Tj T* (and verify the compiler-dependent results before submission.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/Annots [ 6 0 R ]
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057prabha2009\055png\057CSA0218\057tree\057main\057ASSIGNMENT\045201)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 57.02362 325.3899 331.5792 336.4299 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Length 6963
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 767.7008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Submission Note and Design Assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 720.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (This report follows the 12-task structure and terminology in the supplied CSA02 CO1 Assignment 1 question paper.) Tj T* (The calculations and sample outputs below are reference results for the stated tariff. Compiler sizes are typical for) Tj T* (GCC on a common 64-bit system; actual sizeof results depend on the compiler and platform.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 674.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Tariff used throughout the report: first 100 units are free; units 101\226200 cost 225 paise each; units above 200 cost 450) Tj T* (paise each; fixed charge is 5,000 paise \(Rs 50.00\). Money is stored as integer paise to avoid binary floating-point) Tj T* (rounding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 628.9008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Meter assumption: the meter is a 16-bit unsigned counter with values 0\22665535. A rollover is accepted only when the) Tj T* (previous reading is near the maximum and the current reading is near zero; a simple unsigned subtraction is used for) Tj T* (the specific rollover exercise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 586.9008 cm
+q
+.839216 .658824 .294118 RG
+.6 w
+1 .976471 .913725 rg
+n -7 -7 495.2283 50 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 27.5 Tm /F1 8.5 Tf 12 TL (Important validation note: the original assignment asks for execution evidence and measurements from your own machine. The) Tj T* (report gives reproducible commands and expected/reference results, but does not claim that screenshots or measurements) Tj T* (were collected from your computer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 558.9008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 1 \227 Understand the Problem and Identify the Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (The program receives a household identifier, category, previous meter reading and current meter reading. It computes) Tj T* (consumption, slab-wise energy charge, fixed charge and total bill. The data must be separated into input, intermediate) Tj T* (and output values so that each stage can be checked.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 343.3008 cm
+q
+.862745 .901961 .945098 rg
+n 0 162 453.5433 -18 re f*
+.090196 .211765 .364706 rg
+BT /F2 8 Tf 10 TL ET
+BT 1 0 0 1 5 150 Tm (Data item) Tj T* ET
+BT 1 0 0 1 104.2126 150 Tm (Purpose) Tj T* ET
+BT 1 0 0 1 302.6378 150 Tm (Suggested representation) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 10 TL ET
+BT 1 0 0 1 5 132 Tm (Household number) Tj T* ET
+BT 1 0 0 1 104.2126 132 Tm (Identifies the consumer; not used in arithmetic) Tj T* ET
+BT 1 0 0 1 302.6378 132 Tm (char array / string) Tj T* ET
+BT 1 0 0 1 5 114 Tm (Category) Tj T* ET
+BT 1 0 0 1 104.2126 114 Tm (Consumer class or tariff category) Tj T* ET
+BT 1 0 0 1 302.6378 114 Tm (enum or integer code) Tj T* ET
+BT 1 0 0 1 5 96 Tm (Previous reading) Tj T* ET
+BT 1 0 0 1 104.2126 96 Tm (Meter value at the start of the period) Tj T* ET
+BT 1 0 0 1 302.6378 96 Tm (unsigned short) Tj T* ET
+BT 1 0 0 1 5 78 Tm (Current reading) Tj T* ET
+BT 1 0 0 1 104.2126 78 Tm (Meter value at the end of the period) Tj T* ET
+BT 1 0 0 1 302.6378 78 Tm (unsigned short) Tj T* ET
+BT 1 0 0 1 5 60 Tm (Units consumed) Tj T* ET
+BT 1 0 0 1 104.2126 60 Tm (Difference between readings, including rollover) Tj T* ET
+BT 1 0 0 1 302.6378 60 Tm (unsigned int) Tj T* ET
+BT 1 0 0 1 5 42 Tm (Energy charge) Tj T* ET
+BT 1 0 0 1 104.2126 42 Tm (Slab-based cost) Tj T* ET
+BT 1 0 0 1 302.6378 42 Tm (long long paise) Tj T* ET
+BT 1 0 0 1 5 24 Tm (Fixed charge) Tj T* ET
+BT 1 0 0 1 104.2126 24 Tm (Constant monthly charge) Tj T* ET
+BT 1 0 0 1 302.6378 24 Tm (long long paise) Tj T* ET
+BT 1 0 0 1 5 6 Tm (Total) Tj T* ET
+BT 1 0 0 1 104.2126 6 Tm (Energy charge + fixed charge) Tj T* ET
+BT 1 0 0 1 302.6378 6 Tm (long long paise) Tj T* ET
+q
+1 J
+1 j
+.666667 .717647 .768627 RG
+.35 w
+n 0 162 m 453.5433 162 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 162 l S
+n 453.5433 0 m 453.5433 162 l S
+n 0 144 m 453.5433 144 l S
+n 0 126 m 453.5433 126 l S
+n 0 108 m 453.5433 108 l S
+n 0 90 m 453.5433 90 l S
+n 0 72 m 453.5433 72 l S
+n 0 54 m 453.5433 54 l S
+n 0 36 m 453.5433 36 l S
+n 0 18 m 453.5433 18 l S
+n 99.2126 0 m 99.2126 162 l S
+n 297.6378 0 m 297.6378 162 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 336.3008 cm
+Q
+q
+1 0 0 1 57.02362 314.3008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Constants, changing values and correctness rules) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 295.1008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Tariff rates, slab limits, fixed charge and meter modulus do not change during one execution; define them centrally.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 262.7008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Readings and household details vary for each record. Consumption and bill amounts are calculated for each) Tj T* (household.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 230.3008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Readings are non-negative. Monetary amounts are non-negative. Intermediate and district totals can become very) Tj T* (large.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 197.9008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 The total must equal fixed charge plus energy charge. Energy charge must be non-negative. A valid bill must not) Tj T* (silently accept an impossible reading sequence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 165.5008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Assumptions: one monthly billing interval per record; the sample tariff applies to all households; taxes, subsidies and) Tj T* (arrears are excluded unless added as separate components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 143.5008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Alternative: readings stored as text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 71.50079 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 56.8 Tm /F1 9.2 Tf 13.2 TL (A text reading such as "01530" preserves leading zeroes and needs d characters plus a terminating null byte.) Tj T* (Conversion with strtoul takes O\(d\) time for d digits; comparison of two strings is O\(d\) in the worst case. An integer) Tj T* (reading occupies a fixed-size object and arithmetic/comparison are O\(1\). Text uses O\(d\) space per reading; a 16-bit) Tj T* (integer uses a fixed 2-byte object on the target system. Text is useful for preserving the original display format, but it) Tj T* (must be validated and converted before arithmetic.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 5991
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 767.7008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 2 \227 Choose the Data Types) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 733.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.2 Tm /F1 9.2 Tf 13.2 TL (Use unsigned short for the 16-bit meter register, unsigned int for one-period consumption, char arrays for identifiers,) Tj T* (enum for a small set of categories, and long long for accumulated paise. Use integer arithmetic for money.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 583.3008 cm
+q
+.862745 .901961 .945098 rg
+n 0 144 453.5433 -18 re f*
+.090196 .211765 .364706 rg
+BT /F2 8 Tf 10 TL ET
+BT 1 0 0 1 5 132 Tm (Type) Tj T* ET
+BT 1 0 0 1 95.70866 132 Tm (Typical GCC size) Tj T* ET
+BT 1 0 0 1 203.4252 132 Tm (Typical range / use) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 10 TL ET
+BT 1 0 0 1 5 114 Tm (char) Tj T* ET
+BT 1 0 0 1 95.70866 114 Tm (1 byte) Tj T* ET
+BT 1 0 0 1 203.4252 114 Tm (At least -127 to 127 or 0 to 255; text characters) Tj T* ET
+BT 1 0 0 1 5 96 Tm (unsigned short) Tj T* ET
+BT 1 0 0 1 95.70866 96 Tm (2 bytes) Tj T* ET
+BT 1 0 0 1 203.4252 96 Tm (0 to 65535 on the stated 16-bit meter) Tj T* ET
+BT 1 0 0 1 5 78 Tm (int) Tj T* ET
+BT 1 0 0 1 95.70866 78 Tm (4 bytes) Tj T* ET
+BT 1 0 0 1 203.4252 78 Tm (Usually -2,147,483,648 to 2,147,483,647) Tj T* ET
+BT 1 0 0 1 5 60 Tm (long) Tj T* ET
+BT 1 0 0 1 95.70866 60 Tm (8 bytes on many 64-bit Linux systems) Tj T* ET
+BT 1 0 0 1 203.4252 60 Tm (Platform-dependent; check LONG_MAX) Tj T* ET
+BT 1 0 0 1 5 42 Tm (long long) Tj T* ET
+BT 1 0 0 1 95.70866 42 Tm (8 bytes) Tj T* ET
+BT 1 0 0 1 203.4252 42 Tm (At least 64-bit signed range) Tj T* ET
+BT 1 0 0 1 5 24 Tm (float) Tj T* ET
+BT 1 0 0 1 95.70866 24 Tm (4 bytes) Tj T* ET
+BT 1 0 0 1 203.4252 24 Tm (Approx. 6\2267 decimal digits precision) Tj T* ET
+BT 1 0 0 1 5 6 Tm (double) Tj T* ET
+BT 1 0 0 1 95.70866 6 Tm (8 bytes) Tj T* ET
+BT 1 0 0 1 203.4252 6 Tm (Approx. 15\22616 decimal digits precision) Tj T* ET
+q
+1 J
+1 j
+.666667 .717647 .768627 RG
+.35 w
+n 0 144 m 453.5433 144 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 144 l S
+n 453.5433 0 m 453.5433 144 l S
+n 0 126 m 453.5433 126 l S
+n 0 108 m 453.5433 108 l S
+n 0 90 m 453.5433 90 l S
+n 0 72 m 453.5433 72 l S
+n 0 54 m 453.5433 54 l S
+n 0 36 m 453.5433 36 l S
+n 0 18 m 453.5433 18 l S
+n 90.70866 0 m 90.70866 144 l S
+n 198.4252 0 m 198.4252 144 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 576.3008 cm
+Q
+q
+1 0 0 1 57.02362 530.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (The C headers limits.h and float.h provide the actual implementation limits: CHAR_MIN, USHRT_MAX, INT_MAX,) Tj T* (LONG_MAX, LLONG_MAX, FLT_DIG and DBL_DIG. Print sizeof\(type\) and these macros on the target system rather) Tj T* (than assuming every platform has identical sizes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.7008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Why paise rather than float rupees?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 463.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Binary floating-point cannot represent many decimal fractions exactly. Repeated addition and rounding can create) Tj T* (small differences. Storing Rs 162.50 as 16,250 paise is exact integer arithmetic. The per-bill charge and aggregate) Tj T* (remain exact as long as the chosen integer type does not overflow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 441.1008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Complete the Code \227 rollover consumption) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 283.1008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 145.8 Tm /F3 7.2 Tf 9 TL (#include <stdio.h>) Tj T* (#include <limits.h>) Tj T* (typedef unsigned short meter_t;) Tj T*  T* (unsigned int consumption\(meter_t previous, meter_t current\)) Tj T* ({) Tj T* (    return \(unsigned int\)\(\(meter_t\)\(current - previous\)\);) Tj T* (}) Tj T*  T* (int main\(void\)) Tj T* ({) Tj T* (    printf\("sizeof\(meter_t\) = %zu bytes, maximum reading = %u\\\\n",) Tj T* (           sizeof\(meter_t\), \(unsigned\)USHRT_MAX\);) Tj T* (    printf\("Consumption: %u units\\\\n", consumption\(1200, 1530\)\);) Tj T* (    printf\("Consumption: %u units\\\\n", consumption\(65400, 120\)\);) Tj T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 222.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (Expected on a system where unsigned short is 16 bits: 330 units and 256 units. Unsigned arithmetic wraps modulo) Tj T* -0.081559 Tw (65536. Thus 120 ) Tj /F4 9.2 Tf 13.2 TL (-) Tj /F1 9.2 Tf 13.2 TL ( 65400 modulo 65536 equals 256. The result is not negative because unsigned arithmetic is defined) Tj T* 0 Tw (modulo one more than the maximum representable value. In production, validate that a rollover is plausible; otherwise) Tj T* (a bad reading could look like a large consumption.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 200.3008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Float accumulation illustration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 154.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (A decimal amount such as 0.10 is not exactly representable in binary float. Adding it 4,000 times can produce a value) Tj T* (slightly different from 400.00. Integer paise gives exactly 40,000 paise. Exact float output depends on evaluation and) Tj T* (formatting, so run the demonstration on the target compiler.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 85.70079 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 55.8 Tm /F3 7.2 Tf 9 TL (#include <stdio.h>) Tj T* (int main\(void\) {) Tj T* (    float total = 0.0f;) Tj T* (    for \(int i = 0; i < 4000; ++i\) total += 0.10f;) Tj T* (    printf\("float total = %.8f\\\\n", total\);) Tj T* (    printf\("integer paise total = %d paise\\\\n", 4000 * 10\);) Tj T* (}) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 5004
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 734.9008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (Alternative using double rupees: keep a double total and round to paise once using a documented rule such as) Tj T* (llround\(total * 100\). Both approaches take O\(1\) time per addition. A double uses more bytes than a 32-bit float, but still) Tj T* (cannot represent all decimal fractions exactly. With integer paise, each addition is exact until overflow; with floating) Tj T* (point, small representation errors may accumulate with n additions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 706.9008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 3 \227 Define the Constants) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 659.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Tariff values and limits should be defined once, with uppercase names. #define is suitable for compile-time numeric) Tj T* -0.029078 Tw (constants and preprocessor configuration. const variables are typed and obey scope rules. enum is suitable for named) Tj T* 0 Tw (integral categories or states.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 392.3008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 253.8 Tm /F3 7.2 Tf 9 TL (#include <stdio.h>) Tj T* (#define SLAB1_UNITS 100) Tj T* (#define SLAB2_UNITS 200) Tj T* (#define RATE1_PAISE 0LL) Tj T* (#define RATE2_PAISE 225LL) Tj T* (#define RATE3_PAISE 450LL) Tj T* (#define FIXED_CHARGE_PAISE 5000LL) Tj T*  T* (long long compute_bill\(int units\)) Tj T* ({) Tj T* (    long long energy = 0;) Tj T* (    if \(units > SLAB2_UNITS\)) Tj T* (        energy += \(long long\)\(units - SLAB2_UNITS\) * RATE3_PAISE;) Tj T* (    if \(units > SLAB1_UNITS\) {) Tj T* (        int slab2 = units < SLAB2_UNITS ? units - SLAB1_UNITS) Tj T* (                                        : SLAB2_UNITS - SLAB1_UNITS;) Tj T* (        energy += \(long long\)slab2 * RATE2_PAISE;) Tj T* (    }) Tj T* (    if \(units < 0\) return -1;) Tj T* (    return FIXED_CHARGE_PAISE + energy;) Tj T* (}) Tj T* (int main\(void\) {) Tj T* (    int tests[] = {0, 100, 150, 200, 350};) Tj T* (    for \(int i = 0; i < 5; ++i\) {) Tj T* (        long long p = compute_bill\(tests[i]\);) Tj T* (        printf\("%3d units -> Rs %lld.%02lld\\\\n",) Tj T* (               tests[i], p / 100, p % 100\);) Tj T* (    }) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 344.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Expected output: 0 and 100 units ) Tj /F4 9.2 Tf 13.2 TL (\256) Tj /F1 9.2 Tf 13.2 TL ( Rs 50.00; 150 ) Tj /F4 9.2 Tf 13.2 TL (\256) Tj /F1 9.2 Tf 13.2 TL ( Rs 162.50; 200 ) Tj /F4 9.2 Tf 13.2 TL (\256) Tj /F1 9.2 Tf 13.2 TL ( Rs 275.00; 350 ) Tj /F4 9.2 Tf 13.2 TL (\256) Tj /F1 9.2 Tf 13.2 TL ( Rs 950.00. If) Tj T* (RATE2_PAISE changes from 225 to 230, all bills containing slab-2 consumption change consistently because the rate) Tj T* (is defined in one place.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 285.9008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (A macro is replaced by the preprocessor and has no variable storage. A const variable has a type and scope and may) Tj T* (occupy storage, though the compiler may optimize it. An enum gives named integer constants. Running time is) Tj T* (generally unchanged for simple constants after optimization; the main differences are type checking, scope and) Tj T* (debugging visibility.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 257.9008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 4 \227 Use Macros Safely) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 236.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 9.2 Tf 13.2 TL (Macros are expanded before compilation. Always parenthesize both parameters and the complete expression.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 131.7008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 91.8 Tm /F3 7.2 Tf 9 TL (#define RUPEES_TO_PAISE\(r\) \(\(long long\)\(r\) * 100LL\)) Tj T* (#define SQUARE\(x\) \(\(x\) * \(x\)\)) Tj T* (#define MAX\(a, b\) \(\(\(a\) > \(b\)\) ? \(a\) : \(b\)\)) Tj T*  T* (/* Safer alternative for integer values */) Tj T* (static inline int max_int\(int a, int b\) {) Tj T* (    return a > b ? a : b;) Tj T* (}) Tj T* (static inline int square_int\(int x\) {) Tj T* (    return x * x;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 70.90079 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (Without parentheses, SQUARE\(a+1\) expands to a+1*a+1, which follows operator precedence and is not \(a+1\)\262. The) Tj T* (parenthesized macro expands correctly. MAX\(i++, j\) is unsafe because the selected argument can be evaluated more) Tj T* (than once; side effects may occur unpredictably. Prefer a function or static inline function when arguments may have) Tj T* (side effects or type checking is important.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+17 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 5087
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 5) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 748.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Use `gcc -E file.c` to inspect preprocessed output. A macro used k times can duplicate its expanded code k times,) Tj T* (increasing executable size. An inline function may be expanded by the compiler or emitted as one function. Both are) Tj T* (usually O\(1\) for these simple operations; actual call overhead and code size depend on optimization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 720.1008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 5 \227 Header Files and Conditional Compilation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 685.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.2 Tm /F1 9.2 Tf 13.2 TL (A clean program separates declarations from implementation. A header contains constants and prototypes; source) Tj T* (files contain function definitions; main\(\) controls the program. Include guards prevent repeated inclusion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 463.7008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 208.8 Tm /F3 7.2 Tf 9 TL (/* billing.h */) Tj T* (#ifndef BILLING_H) Tj T* (#define BILLING_H) Tj T* (#define FIXED_CHARGE_PAISE 5000LL) Tj T* (#define RATE2_PAISE 225LL) Tj T* (#define RATE3_PAISE 450LL) Tj T* (long long compute_bill\(int units\);) Tj T* (#endif) Tj T*  T* (/* billing.c */) Tj T* (#include "billing.h") Tj T* (long long compute_bill\(int units\) {) Tj T* (    long long e = 0;) Tj T* (    if \(units > 100\) {) Tj T* (        int n = units < 200 ? units - 100 : 100;) Tj T* (        e += \(long long\)n * RATE2_PAISE;) Tj T* (    }) Tj T* (    if \(units > 200\)) Tj T* (        e += \(long long\)\(units - 200\) * RATE3_PAISE;) Tj T* (#ifdef DEBUG) Tj T* (    fprintf\(stderr, "DEBUG units=%d energy=%lld\\\\n", units, e\);) Tj T* (#endif) Tj T* (    return FIXED_CHARGE_PAISE + e;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 416.1008 cm
+q
+BT 1 0 0 1 0 30.4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (Include stdio.h before using fprintf. Compile normally with `gcc -Wall -Wextra main.c billing.c -o billing`; enable debug) Tj T* (output with `gcc -Wall -Wextra -DDEBUG main.c billing.c -o billing`. Angle brackets are conventionally used for system) Tj T* (headers \(`) Tj (`\); quotation marks search the local project/header paths first \(`"billing.h"`\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 370.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (With #ifdef DEBUG, debug statements are removed from a non-debug build. A run-time `if \(debug\)` keeps the branch) Tj T* (and usually the debug strings/code in the executable, but allows the setting to change while the program runs. A) Tj T* (run-time test adds a small check per execution; conditional compilation avoids that check in production.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 342.5008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 6 \227 Read and Print Data Correctly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 308.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.2 Tm /F1 9.2 Tf 13.2 TL (Use matching format specifiers: int %d, unsigned int %u, long %ld, long long %lld, float output %f, double input %lf for) Tj T* (scanf, char %c, string %s. For printf, a double is printed with %f. For size_t, use %zu.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 203.1008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 91.8 Tm /F3 7.2 Tf 9 TL (#include <stdio.h>) Tj T* (int main\(void\) {) Tj T* (    unsigned int previous, current;) Tj T* (    int matched = scanf\("%u %u", &previous, &current\);) Tj T* (    if \(matched != 2\) {) Tj T* (        printf\("Invalid input\\\\n"\);) Tj T* (        return 1;) Tj T* (    }) Tj T* (    printf\("Previous=%u Current=%u\\\\n", previous, current\);) Tj T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 155.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (A wrong format specifier causes undefined behaviour when the argument type does not match the conversion) Tj T* (specification. Check scanf's return value before using the variables. For stricter validation, read a line with fgets and) Tj T* (parse it using strtol/strtoul, checking the end pointer and range.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 123.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.2 Tm /F1 9.2 Tf 13.2 TL (To print paise as rupees and paise, use `printf\("Rs %lld.%02lld", amount / 100, amount % 100\);`. For Rs 162.50,) Tj T* (amount is 16250 and the output is Rs 162.50.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 77.50079 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Alternative: fgets reads at most L characters into a fixed buffer; parsing is O\(L\) time and O\(L\) buffer space. scanf is) Tj T* -0.118536 Tw (concise but can leave invalid input in the stream and is harder to recover from. fgets plus strtol gives better control over) Tj T* 0 Tw (malformed lines, trailing characters and range errors.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+19 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 6543
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 6) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 767.7008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 7 \227 Control Type Conversion and Precision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 720.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (C converts smaller integer types through integer promotion before arithmetic. When signed and unsigned values are) Tj T* (combined, the usual arithmetic conversions may convert the signed value to unsigned. Explicit casts document) Tj T* (intended conversions but do not prevent overflow if the destination type is too small.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.1008 cm
+q
+.862745 .901961 .945098 rg
+n 0 90 476.2205 -18 re f*
+.090196 .211765 .364706 rg
+BT /F2 8 Tf 10 TL ET
+BT 1 0 0 1 5 78 Tm (Expression) Tj T* ET
+BT 1 0 0 1 141.063 78 Tm (Unexpected result) Tj T* ET
+BT 1 0 0 1 248.7795 78 Tm (Reason) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 10 TL ET
+BT 1 0 0 1 5 60 Tm (5 / 2) Tj T* ET
+BT 1 0 0 1 141.063 60 Tm (2) Tj T* ET
+BT 1 0 0 1 248.7795 60 Tm (Integer division discards the fractional part) Tj T* ET
+BT 1 0 0 1 5 42 Tm (\(double\)\(5 / 2\)) Tj T* ET
+BT 1 0 0 1 141.063 42 Tm (2.0) Tj T* ET
+BT 1 0 0 1 248.7795 42 Tm (Cast happens after integer division) Tj T* ET
+BT 1 0 0 1 5 24 Tm (\(double\)5 / 2) Tj T* ET
+BT 1 0 0 1 141.063 24 Tm (2.5) Tj T* ET
+BT 1 0 0 1 248.7795 24 Tm (Conversion happens before division) Tj T* ET
+BT 1 0 0 1 5 6 Tm (-1 < 1U) Tj T* ET
+BT 1 0 0 1 141.063 6 Tm (false on common systems) Tj T* ET
+BT 1 0 0 1 248.7795 6 Tm (-1 is converted to unsigned) Tj T* ET
+q
+1 J
+1 j
+.666667 .717647 .768627 RG
+.35 w
+n 0 90 m 476.2205 90 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 90 l S
+n 476.2205 0 m 476.2205 90 l S
+n 0 72 m 476.2205 72 l S
+n 0 54 m 476.2205 54 l S
+n 0 36 m 476.2205 36 l S
+n 0 18 m 476.2205 18 l S
+n 136.063 0 m 136.063 90 l S
+n 243.7795 0 m 243.7795 90 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 617.1008 cm
+Q
+q
+1 0 0 1 57.02362 558.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL -0.100083 Tw (Casting a large long long total to int can lose information or produce an implementation-defined result if the value is not) Tj T* 0 Tw (representable. Keep the value in a sufficiently wide type and check bounds before multiplication or addition. If a) Tj T* (fractional charge must be converted to paise, define a consistent rounding rule \(for example, round half up\) and apply) Tj T* (it once at the tariff calculation boundary.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (Using float for all calculations and rounding only at the end is simple but may accumulate binary representation error.) Tj T* -0.073863 Tw (Integer paise uses exact arithmetic and O\(1\) time and fixed space per value. float also uses O\(1\) time and fixed space,) Tj T* 0 Tw (but its precision is limited. For n bills, the absolute floating error depends on magnitudes and rounding; it is not) Tj T* (guaranteed to grow linearly in every case.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 471.5008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 8 \227 Trace the Compilation Process) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 450.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 9.2 Tf 13.2 TL (GCC compilation can be inspected in stages:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 399.3008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 37.8 Tm /F3 7.2 Tf 9 TL (gcc -E billing.c -o billing.i     # preprocessing) Tj T* (gcc -S billing.i -o billing.s     # assembly generation) Tj T* (gcc -c billing.c -o billing.o     # object file) Tj T* (gcc main.o billing.o -o billing  # linking \(after compiling main.c\)) Tj T* (gcc -Wall -Wextra main.c billing.c -o billing) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 351.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (The preprocessor expands macros, includes header contents and evaluates conditional-compilation directives. The) Tj T* (compiler translates C into assembly; the assembler creates object code; the linker combines object files and libraries) Tj T* (into an executable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 332.5008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Compile-time error: missing semicolon or undeclared variable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 313.3008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Link-time error: calling a function whose definition is not linked, producing an undefined reference.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 294.1008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Run-time error: invalid input or an out-of-range calculation that the program fails to validate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 261.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.2 Tm /F1 9.2 Tf 13.2 TL (Warnings from -Wall -Wextra may identify unused variables, mismatched formats, signed/unsigned comparisons or) Tj T* (missing declarations. Fix the underlying issue rather than suppressing the warning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 216.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL -0.02073 Tw (With multiple .c files, compile each changed source file to an object file and link all objects. A change to one source file) Tj T* 0 Tw -0.085274 Tw (usually requires recompiling that file and relinking; in a single-file build the whole source is recompiled. Separate object) Tj T* 0 Tw (files use additional disk space, but modular builds can save compile time as the project grows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 188.1008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 9 \227 Implement and Test the Billing Program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 153.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.2 Tm /F1 9.2 Tf 13.2 TL -0.031261 Tw (The following reference implementation validates input, computes rollover consumption and calculates the bill in paise.) Tj T* 0 Tw (It treats a reading decrease as a rollover; a production system should additionally check that rollover is plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 66.70079 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 73.8 Tm /F3 7.2 Tf 9 TL (#include <stdio.h>) Tj T* (#include <limits.h>) Tj T*  T* (#define METER_MODULUS 65536U) Tj T* (#define SLAB1_UNITS 100U) Tj T* (#define SLAB2_UNITS 200U) Tj T* (#define RATE2_PAISE 225LL) Tj T* (#define RATE3_PAISE 450LL) Tj T* (#define FIXED_PAISE 5000LL) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+21 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5799
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 7) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 535.7008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 244.8 Tm /F3 7.2 Tf 9 TL (unsigned int units_used\(unsigned short old, unsigned short now\) {) Tj T* (    return \(unsigned int\)\(\(unsigned short\)\(now - old\)\);) Tj T* (}) Tj T* (long long bill_paise\(unsigned int units\) {) Tj T* (    long long energy = 0;) Tj T* (    if \(units > SLAB1_UNITS\) {) Tj T* (        unsigned int n = units < SLAB2_UNITS) Tj T* (                       ? units - SLAB1_UNITS : SLAB2_UNITS - SLAB1_UNITS;) Tj T* (        energy += \(long long\)n * RATE2_PAISE;) Tj T* (    }) Tj T* (    if \(units > SLAB2_UNITS\)) Tj T* (        energy += \(long long\)\(units - SLAB2_UNITS\) * RATE3_PAISE;) Tj T* (    return FIXED_PAISE + energy;) Tj T* (}) Tj T* (int main\(void\) {) Tj T* (    unsigned int old_in, now_in;) Tj T* (    if \(scanf\("%u %u", &old_in, &now_in\) != 2 ||) Tj T* (        old_in > USHRT_MAX || now_in > USHRT_MAX\) {) Tj T* (        puts\("Invalid input"\);) Tj T* (        return 1;) Tj T* (    }) Tj T* (    unsigned int units = units_used\(\(unsigned short\)old_in,) Tj T* (                                    \(unsigned short\)now_in\);) Tj T* (    long long amount = bill_paise\(units\);) Tj T* (    printf\("Units: %u\\\\nBill: Rs %lld.%02lld\\\\n",) Tj T* (           units, amount / 100, amount % 100\);) Tj T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 501.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 17.2 Tm /F1 9.2 Tf 13.2 TL (Compile: `gcc -std=c11 -Wall -Wextra billing.c -o billing`. Example input `1200 1530` produces 330 units and Rs) Tj T* (860.00 \(100 units at Rs 2.25 = Rs 225.00; 130 units at Rs 4.50 = Rs 585.00; plus Rs 50.00\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 333.3008 cm
+q
+.862745 .901961 .945098 rg
+n 0 162 476.2205 -18 re f*
+.090196 .211765 .364706 rg
+BT /F2 8 Tf 10 TL ET
+BT 1 0 0 1 5 150 Tm (Test case) Tj T* ET
+BT 1 0 0 1 160.9055 150 Tm (Expected units) Tj T* ET
+BT 1 0 0 1 274.2913 150 Tm (Expected bill) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 10 TL ET
+BT 1 0 0 1 5 132 Tm (0 to 0) Tj T* ET
+BT 1 0 0 1 160.9055 132 Tm (0) Tj T* ET
+BT 1 0 0 1 274.2913 132 Tm (Rs 50.00) Tj T* ET
+BT 1 0 0 1 5 114 Tm (100 units consumed) Tj T* ET
+BT 1 0 0 1 160.9055 114 Tm (100) Tj T* ET
+BT 1 0 0 1 274.2913 114 Tm (Rs 50.00) Tj T* ET
+BT 1 0 0 1 5 96 Tm (150 units consumed) Tj T* ET
+BT 1 0 0 1 160.9055 96 Tm (150) Tj T* ET
+BT 1 0 0 1 274.2913 96 Tm (Rs 162.50) Tj T* ET
+BT 1 0 0 1 5 78 Tm (200 units consumed) Tj T* ET
+BT 1 0 0 1 160.9055 78 Tm (200) Tj T* ET
+BT 1 0 0 1 274.2913 78 Tm (Rs 275.00) Tj T* ET
+BT 1 0 0 1 5 60 Tm (350 units consumed) Tj T* ET
+BT 1 0 0 1 160.9055 60 Tm (350) Tj T* ET
+BT 1 0 0 1 274.2913 60 Tm (Rs 950.00) Tj T* ET
+BT 1 0 0 1 5 42 Tm (65400 to 120 \(rollover\)) Tj T* ET
+BT 1 0 0 1 160.9055 42 Tm (256) Tj T* ET
+BT 1 0 0 1 274.2913 42 Tm (Rs 527.00) Tj T* ET
+BT 1 0 0 1 5 24 Tm (Letters as input) Tj T* ET
+BT 1 0 0 1 160.9055 24 Tm (\227) Tj T* ET
+BT 1 0 0 1 274.2913 24 Tm (Invalid input) Tj T* ET
+BT 1 0 0 1 5 6 Tm (Reading above 65535) Tj T* ET
+BT 1 0 0 1 160.9055 6 Tm (\227) Tj T* ET
+BT 1 0 0 1 274.2913 6 Tm (Invalid input) Tj T* ET
+q
+1 J
+1 j
+.666667 .717647 .768627 RG
+.35 w
+n 0 162 m 476.2205 162 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 162 l S
+n 476.2205 0 m 476.2205 162 l S
+n 0 144 m 476.2205 144 l S
+n 0 126 m 476.2205 126 l S
+n 0 108 m 476.2205 108 l S
+n 0 90 m 476.2205 90 l S
+n 0 72 m 476.2205 72 l S
+n 0 54 m 476.2205 54 l S
+n 0 36 m 476.2205 36 l S
+n 0 18 m 476.2205 18 l S
+n 155.9055 0 m 155.9055 162 l S
+n 269.2913 0 m 269.2913 162 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 326.3008 cm
+Q
+q
+1 0 0 1 57.02362 280.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL -0.127233 Tw (For 256 units, the charge is Rs 50 + \(100 \327 Rs 2.25\) + \(56 \327 Rs 4.50\) = Rs 527.00. The program should be extended to) Tj T* 0 Tw (reject negative text input explicitly if using a parser that accepts signed values. Five-bill totals should be computed by) Tj T* (summing the exact integer-paise values, not rounded rupee floats.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 235.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Alternative array-based tariff: store slab limits and rates in arrays and loop over s slabs. This takes O\(s\) time per bill) Tj T* (and O\(s\) space for the tariff table. Fixed if-statements are O\(1\) for a fixed number of slabs. Arrays are easier to extend) Tj T* (when many slabs or tariff categories exist.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 207.1008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 10 \227 Compare Expectations with Execution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 146.3008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (For the same bill amounts, integer paise and floating-point rupees should be close, but may differ by small fractions of) Tj T* (a paise before rounding. Integer paise is exact. To compare 4,000, 60,000 and 800,000 bills, run both versions on the) Tj T* (same generated bill set and print the difference after rounding. Do not claim a measured difference without recording) Tj T* (the actual run.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 100.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (A district total can exceed a 32-bit int. For example, at Rs 950 per bill, 800,000 bills total Rs 760,000,000) Tj T* -0.027909 Tw (\(76,000,000,000 paise\), which exceeds the maximum signed 32-bit integer in paise. A signed 64-bit long long can hold) Tj T* 0 Tw (this amount. Whether long is 32 or 64 bits depends on the platform; inspect LONG_MAX.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+23 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 6591
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 8) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 715.7008 cm
+q
+.862745 .901961 .945098 rg
+n 0 72 476.2205 -18 re f*
+.090196 .211765 .364706 rg
+BT /F2 8 Tf 10 TL ET
+BT 1 0 0 1 5 60 Tm (Scale) Tj T* ET
+BT 1 0 0 1 132.5591 60 Tm (Bills) Tj T* ET
+BT 1 0 0 1 231.7717 60 Tm (Maximum at Rs 950 per bill) Tj T* ET
+0 0 0 rg
+BT /F1 8 Tf 10 TL ET
+BT 1 0 0 1 5 42 Tm (Village) Tj T* ET
+BT 1 0 0 1 132.5591 42 Tm (4,000) Tj T* ET
+BT 1 0 0 1 231.7717 42 Tm (Rs 3,800,000) Tj T* ET
+BT 1 0 0 1 5 24 Tm (Taluk) Tj T* ET
+BT 1 0 0 1 132.5591 24 Tm (60,000) Tj T* ET
+BT 1 0 0 1 231.7717 24 Tm (Rs 57,000,000) Tj T* ET
+BT 1 0 0 1 5 6 Tm (District) Tj T* ET
+BT 1 0 0 1 132.5591 6 Tm (800,000) Tj T* ET
+BT 1 0 0 1 231.7717 6 Tm (Rs 760,000,000) Tj T* ET
+q
+1 J
+1 j
+.666667 .717647 .768627 RG
+.35 w
+n 0 72 m 476.2205 72 l S
+n 0 0 m 476.2205 0 l S
+n 0 0 m 0 72 l S
+n 476.2205 0 m 476.2205 72 l S
+n 0 54 m 476.2205 54 l S
+n 0 36 m 476.2205 36 l S
+n 0 18 m 476.2205 18 l S
+n 127.5591 0 m 127.5591 72 l S
+n 226.7717 0 m 226.7717 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 708.7008 cm
+Q
+q
+1 0 0 1 57.02362 663.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (A double accumulator has a very large range and is unlikely to overflow at this scale, but decimal precision is not) Tj T* -0.076782 Tw (exact. A long long paise accumulator is exact for these totals if the value remains within LLONG_MAX. Addition is O\(1\)) Tj T* 0 Tw (for both; a long long generally occupies 8 bytes and a double commonly occupies 8 bytes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 635.1008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 11 \227 Recommend and Defend the Final Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 613.9008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 9.2 Tf 13.2 TL (Recommended design:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 594.7008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Use unsigned short for the hardware meter register only when the meter specification confirms a 16-bit register.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 562.3008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Use unsigned int or uint32_t for validated units consumed; use long long or int64_t for money in paise and large) Tj T* (aggregate totals.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.1008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Use a character array for household identifiers and enum for a small fixed category list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 510.7008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Keep tariff limits and rates in one configuration module. Use clearly named constants and fully parenthesized macros) Tj T* (only where appropriate; prefer functions for calculations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 491.5008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Validate every input, check rollover plausibility, check arithmetic bounds and format money from integer paise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 445.9008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (A tariff revision requires changing the single tariff definition/configuration rather than editing repeated literals) Tj T* (throughout the program. The main limitation of compile-time macros is that changing a tariff requires rebuilding and) Tj T* (redistributing the executable. A 64-bit paise total is sufficient for the stated district scale under the example tariff.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 387.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (Alternative: read t tariff values from a configuration file at start-up. Reading and validating the file takes O\(t\) time and) Tj T* (O\(t\) memory for an in-memory tariff table. This avoids recompilation for tariff changes, but requires robust parsing,) Tj T* (validation, versioning and access control. Recompilation takes developer/build/distribution effort but gives a fixed,) Tj T* (auditable tariff embedded in the program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 359.1008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TASK 12 \227 Re-evaluate and Adapt the Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 311.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (The smart-meter requirement changes the input volume and tariff model. Each household sends 35,040 readings per) Tj T* (year \(96 readings per day \327 365 days\). The system must retain timestamps or time-slot identifiers so that peak-hour) Tj T* (consumption can be priced separately. The board also requires tariff changes without recompilation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 289.5008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (A. Impact Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 257.1008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 A single monthly previous/current reading is no longer enough; the program processes interval readings and) Tj T* (timestamps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 224.7008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Watt-hours and annual totals need wider integer types. Use uint64_t for cumulative watt-hours and int64_t for paise) Tj T* (totals, with overflow checks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 192.3008 cm
+q
+BT 1 0 0 1 0 17.2 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (\177 Tariffs should not be fixed only with #define. Load validated tariff configuration at program start or from a managed) Tj T* (tariff service.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 170.3008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (B. Evaluation of Original Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 111.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 43.6 Tm /F1 9.2 Tf 13.2 TL (The 16-bit register type may still describe the hardware counter, but it is not sufficient for annual cumulative energy. A) Tj T* (household's annual interval count is 35,040; the cumulative watt-hours depend on actual usage and may exceed a) Tj T* (narrow type. A 64-bit accumulator provides a much larger safe range. The original paise arithmetic remains) Tj T* (appropriate, but totals must use a wide integer type.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 89.50079 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (C. Adaptation / Revised Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 66.50079 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 10.8 Tm /F3 7.2 Tf 9 TL (#include <stdint.h>) Tj T* (#include <stdio.h>) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+25 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 4686
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.784314 .823529 .862745 RG
+n 51.02362 42.51969 m 544.252 42.51969 l S
+BT /F1 8 Tf 9.6 TL ET
+.356863 .396078 .439216 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (CSA02 \227 C Programming | Prabhakaran C) Tj T* ET
+BT 1 0 0 1 518.9 28.34646 Tm (Page 9) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 607.7008 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 172.8 Tm /F3 7.2 Tf 9 TL (typedef struct {) Tj T* (    int start_minute;       /* minutes after midnight */) Tj T* (    int end_minute;         /* exclusive */) Tj T* (    int64_t paise_per_kwh;  /* tariff in paise per kWh */) Tj T* (} TariffPeriod;) Tj T*  T* (int is_peak\(int minute_of_day\) {) Tj T* (    return minute_of_day >= 18 * 60 && minute_of_day < 22 * 60;) Tj T* (}) Tj T*  T* (/* energy_wh is the interval energy in watt-hours.) Tj T* (   Return charge in paise, rounded to nearest paise. */) Tj T* (int64_t charge_paise\(uint64_t energy_wh, int64_t base_rate_paise,) Tj T* (                     int peak\) {) Tj T* (    /* paise/kWh \327 Wh / 1000; peak rate is 20% higher.) Tj T* (       Multiply before dividing and check bounds in production. */) Tj T* (    int64_t rate = peak ? base_rate_paise * 120 / 100) Tj T* (                        : base_rate_paise;) Tj T* (    return \(int64_t\)\(\(energy_wh * \(uint64_t\)rate + 500\) / 1000\);) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 560.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (The tariff configuration should be read from a file containing the base rate, peak multiplier, effective date and time) Tj T* (periods. Validate that periods do not overlap, rates are non-negative and all required fields are present. The peak) Tj T* (interval is 18:00 inclusive to 22:00 exclusive. For a 20% increase, the peak rate is base rate \327 120 / 100.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 538.1008 cm
+q
+.141176 .321569 .478431 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (D. Evidence-Based Defence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 466.1008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 56.8 Tm /F1 9.2 Tf 13.2 TL (The modified design retains exact integer accounting but widens cumulative energy and money types, adds) Tj T* (time-of-day classification and moves tariff values to run-time configuration. It is more maintainable for changing tariffs) Tj T* (and interval data. The trade-offs are more complex input validation, timestamp handling, configuration management) Tj T* (and testing across day boundaries. The implementation should be tested with readings immediately before 18:00, at) Tj T* (18:00, just before 22:00 and at 22:00, plus malformed or missing tariff configuration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 420.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Implementation note: the sample charge function illustrates the calculation for one interval. A production) Tj T* (implementation must check multiplication overflow before `energy_wh * rate`, parse configuration safely, split intervals) Tj T* (that cross a tariff boundary, and aggregate all intervals in int64_t paise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 392.5008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 318.5008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 56.8 Tm /F1 9.2 Tf 13.2 TL (The most reliable design for the original billing problem stores money as integer paise, centralizes tariff values,) Tj T* (validates meter readings and uses sufficiently wide integer types for aggregate totals. The rollover example is handled) Tj T* (through unsigned 16-bit arithmetic, while production code must validate whether a rollover is plausible. For) Tj T* (smart-meter billing, the design should be modified to process timestamped watt-hour intervals, use 64-bit) Tj T* (accumulators and load tariff settings at run time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 290.5008 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (GitHub Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 269.3008 cm
+q
+BT 1 0 0 1 0 4 Tm 13.2 TL /F1 9.2 Tf 0 0 0 rg (Repository link supplied by the student: ) Tj 0 0 1 rg (https://github.com/prabha2009-png/CSA0218/tree/main/ASSIGNMENT%201) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 223.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 30.4 Tm /F1 9.2 Tf 13.2 TL (Before final submission, ensure the repository is accessible to your faculty and contains Task01\226Task12 folders,) Tj T* (source files, input files, actual output screenshots and a README.md. Commit each task progressively as required by) Tj T* (the assignment brief.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 207.7008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Reference: Student-provided file, CO1_Assignment_1.docx, CSA02 C Programming, Assignment 1 \(10 pages\).) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+27 0 obj
+<<
+/Annots [ 28 0 R ]
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057prabha2009\055png\057CSA0218\057tree\057main\057ASSIGNMENT\045201)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 219.6336 271.4608 494.1892 282.5008 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000000015 00000 n 
+0000000156 00000 n 
+0000000271 00000 n 
+0000000320 00000 n 
+0000003409 00000 n 
+0000003626 00000 n 
+0000003877 00000 n 
+0000003940 00000 n 
+0000004047 00000 n 
+0000004159 00000 n 
+0000004265 00000 n 
+0000004343 00000 n 
+0000011359 00000 n 
+0000011560 00000 n 
+0000017604 00000 n 
+0000017805 00000 n 
+0000022862 00000 n 
+0000023063 00000 n 
+0000028203 00000 n 
+0000028404 00000 n 
+0000035000 00000 n 
+0000035201 00000 n 
+0000041053 00000 n 
+0000041254 00000 n 
+0000047898 00000 n 
+0000048099 00000 n 
+0000052838 00000 n 
+0000053058 00000 n 
+trailer
+<<
+/Size 29
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+53310
+%%EOF
