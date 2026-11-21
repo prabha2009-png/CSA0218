@@ -1,0 +1,1638 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (CSA02 C Programming \055 Assignment 4 \050CO4\051 \055 Prabhakaran C)
+/Author (Prabhakaran C)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R 28 0 R 31 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+/Annots [ 12 0 R ]
+>>
+endobj
+5 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 671
+>>
+stream
+GatUphiF3k&BE],/*>5p,-oBF[8.L=B;0@!2>?)<iei(1i3>q=qsSI=dq[@3[36]%G38]#b[_Ij3^0?b-Q0]Y#2S_N#R.X@@VR6o.?%BpX[PE09hVg>Q>V<7oJGCfRokHdH?3>g/Q<i_;(U$iO90E:5tYlP@QBn1VZra!'sudFRZ.3uaCgmST[Wuq0HYhY!;chgo40-BJ^9s%/H$Z(p?gNjNJ.]DFmMnm=YLgiV\=OgiQ.R5SqCuCKV?RoGb2-0LfcY2fK:-Bi;,g.qiegVNj.\M(LX4`'p`US*g],fCSjUjl*^ILir]SIQh[ILF"TC*3riN),hL*.=3$E#67Q;n?Y)l:%Y41gMqU3HHIn_T^2^oo=&c$7DEW4oMmSGL9]RWRg0Wk*FRa=&]4:lE3s:g@ML+D4H[3HTlJM%i(@&/.6HFA)'WNS=#<*KgoR=];;EHo&G#P(mePa:K]-j(Z(u8fPUt>,t:LPpeh:W5*L5+qOJDpOg(YBT91%mkZMA*&n5-B1)E9(iQ+dNa\17g!-\Q!.*-rK%<j0,[>8r00'c3n[**@kg%3t5Z2iu[M\XV$fJDRU@J[MATg#[,@A;IL]6W:a22h"K:M6\k')aOd015]'su:k7FQ`Yo6kH&<F$X'.,N&rsfiQ@gYp*@KB<]kb@l$sFb)[9!5~>
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Length 1412
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 778.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 17 Tf 21 TL 157.4923 0 Td (ASSIGNMENT 4 \227 CO4) Tj T* -157.4923 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 750.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 12 Tf 16 TL 55.63276 0 Td (MODELLING REAL-WORLD DATA WITH STRUCTURES AND UNIONS) Tj T* -55.63276 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.68504 727.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Name: Prabhakaran C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 710.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Register Number: 1912260199) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 693.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Course: C Programming \(CSA02\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 676.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Course Outcome: CO4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 659.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (GitHub Repository:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 642.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (https://github.com/prabha2009-png/CSA0218/tree/main/ASSIGNMENT%204) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 614.0394 cm
+q
+BT 1 0 0 1 0 13.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (Note: The assignment instructions ask for a repository named CSA02-) Tj (-Assignment4. The supplied link is inserted as requested;) Tj T* (confirm that it contains this assignment and is accessible to faculty.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 45.7 642.34 341.152 652.34 ]
+/Border [ 0.0 0.0 0.0 ]
+/A <<
+/S /URI
+/URI (https\072\057\057github\056com\057prabha2009\055png\057CSA0218\057tree\057main\057ASSIGNMENT\045204)
+>>
+>>
+endobj
+13 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2612
+>>
+stream
+GatU4CNJ3#(B'h3EOVfg#:CWe]PTE&jhrG+RTY^'Afk$m[FIeWZm2Q8Q@P(!r:`@`o`4mq9Uo'%UMemhT6p!?4EBuDZTnDEkhV&T5Bu6HBf%->mBgU"3t4]`5/6ZGSaDHdm<@>Dp%g8\D4S'(*gU*DChBkY_5iO'BGA9jPJ!2=fO]-3dFlc_=<9Dj4ZYeHS^I9&k2PDI>n?sX1&UbXNUCNQR_A\&J"Q;emHjN$F:-nHopq[smTJ_Ej3bD2eL[R_:6i"nN.:'m?<b+V?G4q]DWsb1&V`%d@>n<dV_hC/$rWO/6eP^B.O%H@a:M4'4a<&*.0:-rd:ldsjj:u26qf(*V9+s^Nrp7lre8e2RV"#5=QXsEZH+HFY_=0?C$K8i2'[Ndi-BqSiA4AG,Vjj%"6Y1i\0ipX6dm3./ds%IKR)momN$c3SWY,AD$4UN&Fgs5840YHL_-aaesT3oY9,@u(!g]q12.pIUK%$do6BX$m*KFK;Y![&]p*+IlI@#$;V4W>*k_i3WWj-d2`!-qb9.S"U_)'gMdN=.E%0dsdWICo@7h-SM&O5!!@@%)]cSn)_faauB$3R)Xf0fk#e>bM-HR]26EL=k.+32<Gg$>S>,RbuQ#D9aPUJ^I7CYSej-k(%:*&`gg'rISHrRS:i5/U6aL@:F"iT)<!3_?^aEp`,,M=%*.'(4q2QfT.(p?[N@CRZ&+Xk=MYV:AoNB6sij*;KL*EoIBA`k8$[sa1,9Rb)3^h3]Y!3q&0brI5%<i8odbgmn'i5m1]_a3.%lDq;4/&G8,cC*7:IL&<qR%hHd$jse#2\Hua;CXAoqli(A/Fup:a4[NRd&"__-,Na:)SIEp:T*:>7;S$Ej;/nd6RO6>f9K43a$d'f532W=-cS2[Z&"hJ@dK]-\QC=VQ9ccO!JABC&n[Cr'(Y`P_QsPk*VpW<M$W\uN_=8[fn\d):`seGX!!KtESs8L#C_u2jsObnP]9q5>e,ji\Z]Lm@19YoD8C0nhn%&S:Sd1#%5>eeSH)>>H"o(ST/V^FjQD4PbUlC!Y'E_bX\AQ35@'*kA^F$\fG]BMHWnp52-9dIYq:s_VND]t4WpZJaTcTXDs4mmoK9$C(D1+Zk2!<31M3L,T<EVRQ<U/!9LOai+pb@B!B70@O7l*$3pAYq,.PBo)4<E$>*3I^PJQt6lZk$c38>;B0^THihs&d<J',ffUpk%R..,6.X]fsrM7\.Nc)t^F7&"+I/EqZ&S/Lh<6orWUF]qFH#5!nBP6R<*-XSB,]=stTIe+TOqc,rNc^UjK#_21tNM.>047:p4B8JbPLP*YEMs8uEnA:389Usp=c>1>/S$d06*9gk/?9dQ<6@V5sc[W.D7Mitcd1(iC]<fV6\:oe!(ODY%\V8LkW[G&V'u/@;B!3dnN/o%06VT<.nhp::QQ>PICF&BePIm;eEgsg_8&&m;g"l;_9keg![(B3QosRJuKC#LTh01ASIt"]Tncmk6\.\.-)h&ArJl)p(#Z#Ze=,9A.r82;n[I'\'Nuk1fS`]7GX!"%kd-5CYnY`@][ACc,e.N#,1W_=CBZ1&G+Gt.4#LVg!(WG&CCOM?Y"De<m0$G[ueFCat:2NS8'^(mU8ZSdUnPBMQ@iiE:.ma'j3m:O"oRpp3=64aK0@@QcPsL:>'jB%.m*@u\l79J=RJoWWao)a.f]PPjMd%TRWKo<#-DslSNeL.Zl?NX>$_K":]LaVXGa(TO@hDtibX+g$+]q*1JMZd=JdnS'?"0bT+BMP?Q5-$O8pjZN95/#1,([5M3\.#(*Q!(blr4JIii9(rYla8aenJ,(A[`I%b,7H/S&^LBnLsoYY;?cej8nkVja,ehFgLK'`DaDG*1e5,nZ8r_U+"b1EuW6(k)_;7Qp0e;C'.\)nsTf3\u,%M<XSUJE2*l,.U\MA*]Y?n0OI'H2Pp[Y$c7$d7hLYu%9\5lZDH#)A9s,kU<c?jlYmHTWP)g422`!Ce1Pb&S'RaPa5/FO5XU"u0s8LUB"&)i\3-Mb.cjdb$a(q@#%tt7NoLZ;#K:BkcQ?$#VA328%7hZn<(_qOO[inC$-&;s((5:KX_%araDZmp=uJ;PTLtVO,3D26PqHkI.+(L$9P\aGd9dSuKLAO<j&WKVV%Ztf8GXc(1=B!.R1[oIo#F61]`[O,Fb;qu,VlRDOd41i@RVUMYg'oLbp!FN(ah(C8H9lOK>@Zbk'\D==s4Ydbc=ibjCKK,]6q(@e0Jl:6l[W.S#nj'hXk,Bm;9GVB,'u.-%j7G>r3S=mU#MG:CFsEcT-8?s7)(dCfQ8-XEOpEmk#[>_!o?o=-(l7G2i(J]kVcRD[bIn,/%CmpM>cth/?2t].7;f%d;[E4,6K#QDu<OA"Op!guJ@kZ*<2P^VJa%5l"2ISd]eT?WgD?A=f&KS&Ocs*5m%Zo.mb\KABhj%[TANgY+lqTE!WLR=B)Krf;P8?OX.&lKnBGn95dVT=t9lipu,Y5kR5*^"*!'?oNY6+g,V66!kIPq_)mlI/=QImc#3f5H/79.(G,bG&eDVBLin3ohlF,(m/F00Z3_':q'&HG0guOHV'`('fnM_/$Uih[9!t8jtA*,,[=V[@S?p+mG_AIE9H;UgC7`d@+PXGd]<BMQqqLt~>
+endstream
+endobj
+15 0 obj
+<<
+/Length 5789
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 783.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (TASK 1 \227 DATA DESIGN REVIEW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 765.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (1.1 Design deficiencies) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 737.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (1. Parallel arrays: fields for the same patient are spread across arrays. If an insertion/deletion shifts one array but not another,) Tj T* (records become mismatched.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 709.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (2. char phone[100][10]: a 10-digit number needs 11 bytes including the terminating '\\0'. This can overflow; phone numbers should) Tj T* (be strings because leading zeroes and symbols may matter.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 681.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL -0.092314 Tw (3. float bp: blood pressure has systolic and diastolic values \(e.g., 120 and 80\), not one floating-point value. It cannot be represented) Tj T* 0 Tw (meaningfully as a single float.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 653.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (4. visitDate[8]: a text date is hard to validate, sort and manipulate; the size may also be too small for a terminated string depending) Tj T* (on format.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 636.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (5. No capacity check: count can exceed 99 and write beyond arrays, causing undefined behavior and data corruption.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 619.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (6. Global count/arrays: globals create hidden shared state and make testing, reuse and concurrency harder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 602.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (7. Sorting by age: sorting one array requires applying identical swaps to every parallel array, which is error-prone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 596.0394 cm
+Q
+q
+1 0 0 1 45.68504 579.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (1.2 Improved structure design and pointer-based addPatient\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 397.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 171.4 Tm /F3 7.1 Tf 8.5 TL (#include <stdio.h>) Tj T* (#include <string.h>) Tj T*  T* (typedef struct { int day, month, year; } Date;) Tj T* (typedef struct { int systolic, diastolic; } BloodPressure;) Tj T* (typedef struct {) Tj T* (    char name[50];) Tj T* (    int age;) Tj T* (    char phone[16];) Tj T* (    BloodPressure bp;) Tj T* (    Date visitDate;) Tj T* (} Patient;) Tj T*  T* (#define MAX_PATIENTS 100) Tj T*  T* (int addPatient\(Patient *p, const Patient *newPatient, int *count\) {) Tj T* (    if \(*count >= MAX_PATIENTS\) return 0;) Tj T* (    p[*count] = *newPatient;) Tj T* (    ++\(*count\);) Tj T* (    return 1;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 380.5394 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (Example call: addPatient\(patients, &) Tj (newPatient, &) Tj (count\);) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 374.5394 cm
+Q
+q
+1 0 0 1 45.68504 357.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (1.3 Design defence \(under 100 words\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 307.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.3 Tm /F1 8.7 Tf 11 TL (A structure keeps all fields belonging to one patient together, so a patient can be sorted or swapped as one object without) Tj T* (synchronizing several arrays. Functions can receive one pointer to the record, reducing repeated parameters and making the) Tj T* (interface clearer. Nested date and blood-pressure structures group related values and can be reused. New fields can be added to) Tj T* (Patient without creating and maintaining another parallel array.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 301.5394 cm
+Q
+q
+1 0 0 1 45.68504 240.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 46.3 Tm /F1 8.7 Tf 11 TL (Parallel arrays may be preferred when processing one field across many records \(e.g., vectorized operations or cache-friendly) Tj T* (analytics\) and only selected columns are needed. Sorting n records with selection sort is O\(n\262\) comparisons and at most n) Tj /F4 8.7 Tf 11 TL (-) Tj /F1 8.7 Tf 11 TL (1) Tj T* (swaps; each whole-record swap moves sizeof\(Patient\) bytes \(three assignments using a temporary, approximately 3\327 record size) Tj T* (of memory traffic\). Both designs store O\(n\) data. Structure padding may add bytes between fields; parallel arrays can avoid some) Tj T* (per-record padding but require synchronization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 234.5394 cm
+Q
+q
+1 0 0 1 45.68504 217.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (1.4 Sample age sorting \(selection sort\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 129.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 77.9 Tm /F3 7.1 Tf 8.5 TL (for \(int i = 0; i < n - 1; ++i\) {) Tj T* (    int min = i;) Tj T* (    for \(int j = i + 1; j < n; ++j\)) Tj T* (        if \(patients[j].age < patients[min].age\) min = j;) Tj T* (    if \(min != i\) {) Tj T* (        Patient temp = patients[i];) Tj T* (        patients[i] = patients[min];) Tj T* (        patients[min] = temp;) Tj T* (    }) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 103.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (TASK 2 \227 COURIER PARCEL TRACKING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 85.53937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (2.1 Entities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 68.53937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Parcel: ID, weight, booking date, sender, receiver, service type, charge.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 51.53937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Person/address: name, city and PIN code \(nested for sender and receiver\).) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+16 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1662
+>>
+stream
+GauHKD/\E'&H88.0hmoK/rnsn%,ig:/g7o!\W@H)m4"'W@kV7NY^Q5.'LhrocE7W/]Hf\&$Bi4e]?`V:b]l:GJq@?0>eL`bB,cja<DYQWH_;:_!VSCXm(FKfC,XNpj]^J>%']#>=j\/mY!]N>bjj.',,fQZ:"I-%$-9\o#u$U/<\@WH:;D'$&ra\Xod,t:2jULP&&A1[4oU;qF^?YBH`qW=I\n/I%`3JO%O$d^r#<U#8\h<e?p&J0ALQ'P3JI,>N#e/1A.@s/4SIDe-K((/%4Iu[OM"AjB'=<N#IcGPnQdn>r*)+'fCH/=@E=FmL^o`PE[#YZ'MR.),3U*]_$44s#&GSr9pbtmAogF[Fd^j*@gLj%\Mo`X#s??WpU]qB'R13!35dg$\fP'EiDDn"Rs*u\fsLsbIr7?M]/s8[`H&<B\H23;>uA@>)!_VuQba'':OQ9Nn.!3D(k*i*9/;rtOME6K">TEPI3rrR<^mO2/Q#btjdJ<n/5s>$H"=E%8acfj)E]>?We-BKEaW/WBXM,$:P[\XN;_*2I8V9FPf=2o@_6,o5C`"uh7EICMsXJUqii4BWpfgC)qt#"0A@M?+IjEY)G<Oi1QBVc]FH[`2?ZNR$%A2N4hhR<[UD[!cn]f)RCI'cXb\!tWGlSYL.;/i?UlY9c+06Z""IB=Ms"[@+K(8YHs@)SZL_N%9BuejP^6/8,FYmNe?,2J5e0O4;69/uTNlF'hblC&1fZ2SE?f_mLI8A/R,S]bd/3c9(_,SVONOL@Dni`?g(%:m?esDk:@#Q8oiJ3C4hn;;(!a2Y[9)L$1X$lXf_&c*nUMOh^/N&5&k/D*5%Q>VO<7tVQjBD6oSR,Wg<M8u_+rhF"^!sR<9<LHdMk9(Ug_f%k'=ThNEk$f;>BD,%_Fo_@s8!0i.pZ0+h!\p%b>;>31,]m&+80`,>DWXiPom4K%5)K&KaYrKm?Qko`V!6_5;7Arqn$9rVc^]eMh2RpBbGCpe6+qA"i/,S2@F8ISXQuB9^ta'F1k](o!Soh#K)2HK3rqCM+a6mUQ#cYQDhE2"660T-RO18m*m[W%5^WIF4XrJNo?,?6T/IV3YdrFR>WB79=X\$I6Od1aL^`#T5=8G5J#)PUbY11Se5>e#d;<[BX$52,b,O-HrB]gcq>[Q%ar#[^hB3/l/*RT62i^Dp`TR$fCHbF]ep]cC0c&UB+$O/=[7H\[E`</$PX5lDFkr2oTtj*]A^g.IB;e:3EQ/&W:s1AcKQ$"'P$-pEqpkNqf0>q8_1-n/Wn/QO57L:NU^$Eta%8l%smm-k>Xts%JGIldJSM6M8<7VZ1+U8&D7f\t]!bZ2Gr,=ncpa9kcR[H:R^3H#UlX'aZS%0Jc-Wi"ILU5qE?F3!-JoLPKt_riBVje^5b;bn]7?E53jZ\V3QV%a"eWMtG?]!49cW[R+ODj\&M4Oa8"KH5(/*ob[80Q8&=Q'k(Ve+^0P;c;d+A)752+SA_9RgkM"Pf]n]8@:ZqrE^E9_#*+Mu$M,J%+\gV&cJ>Vjn'tB:#n5MR8as=keb-tf9D9b!Gtg_)V`:Vi&u^ZjR\J?0e(%\k"?o3("N#GV"@7p<.#MT$7*s=2f2I?aNZMIA`e8tP;392Po,pJQM@(s`1uH"MHN"N/R(iDJFc2$lDaHeeOM_W"0^S`CWBU.j~>
+endstream
+endobj
+18 0 obj
+<<
+/Length 5099
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 788.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Date: day, month, year.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 771.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Service: normal or express \(enum\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 765.0394 cm
+Q
+q
+1 0 0 1 45.68504 748.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (2.2 Structure definitions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 643.0394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 94.9 Tm /F3 7.1 Tf 8.5 TL (typedef struct { int day, month, year; } Date;) Tj T* (typedef struct { char name[40], city[30]; int pin; } Contact;) Tj T* (typedef enum { NORMAL, EXPRESS } Service;) Tj T* (typedef struct {) Tj T* (    int id;) Tj T* (    float weight;) Tj T* (    Date booked;) Tj T* (    Contact sender, receiver;) Tj T* (    Service service;) Tj T* (    float charge;) Tj T* (} Parcel;) Tj T* (Parcel bookings[100];) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 626.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (2.3 Pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 609.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (SORT_BY_WEIGHT\(bookings, n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 592.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (FOR i ) Tj /F4 8.7 Tf 11 TL (\254) Tj /F1 8.7 Tf 11 TL ( 0 TO n-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 575.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (min ) Tj /F4 8.7 Tf 11 TL (\254) Tj /F1 8.7 Tf 11 TL ( i) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 558.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (FOR j ) Tj /F4 8.7 Tf 11 TL (\254) Tj /F1 8.7 Tf 11 TL ( i+1 TO n-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 541.0394 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (IF bookings[j].weight < bookings[min].weight THEN min ) Tj /F4 8.7 Tf 11 TL (\254) Tj /F1 8.7 Tf 11 TL ( j) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 524.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (END FOR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 507.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (IF min ) Tj /F4 8.7 Tf 11 TL (\271) Tj /F1 8.7 Tf 11 TL ( i THEN swap whole bookings[i], bookings[min]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 490.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (END FOR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 484.0394 cm
+Q
+q
+1 0 0 1 45.68504 467.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (LIST_RECEIVER_CITY\(bookings, n, city\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 450.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (FOR i ) Tj /F4 8.7 Tf 11 TL (\254) Tj /F1 8.7 Tf 11 TL ( 0 TO n-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 433.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (IF bookings[i].receiver.city equals city THEN print bookings[i]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 416.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (END FOR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 410.0394 cm
+Q
+q
+1 0 0 1 45.68504 393.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (2.4 Access paths) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 376.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Array + dot: bookings[2].receiver.pin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 359.0394 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (Pointer + arrow \(p points to bookings[2]\): p-) Tj (>) Tj (receiver.pin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 331.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (The provided starter code's struct parcel is smaller than the full model above; it includes id, weight, receiver address and booking) Tj T* (date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 325.0394 cm
+Q
+q
+1 0 0 1 45.68504 308.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Completed code \(TODOs\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 50.03937 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 247.9 Tm /F3 7.1 Tf 8.5 TL (#include <stdio.h>) Tj T* (struct date { int day, month, year; };) Tj T* (struct address { char city[20]; int pincode; };) Tj T* (struct parcel { int id; float weight; struct address to; struct date booked; };) Tj T*  T* (void print_parcel\(const struct parcel *p\) {) Tj T* (    printf\("%d %.1f kg %s-%d %02d/%02d/%04d\\n",) Tj T* (           p->id, p->weight, p->to.city, p->to.pincode,) Tj T* (           p->booked.day, p->booked.month, p->booked.year\);) Tj T* (}) Tj T* (void sort_by_weight\(struct parcel p[], int n\) {) Tj T* (    for \(int i = 0; i < n - 1; ++i\) {) Tj T* (        int min = i;) Tj T* (        for \(int j = i + 1; j < n; ++j\)) Tj T* (            if \(p[j].weight < p[min].weight\) min = j;) Tj T* (        if \(min != i\) {) Tj T* (            struct parcel temp = p[i];) Tj T* (            p[i] = p[min];) Tj T* (            p[min] = temp;) Tj T* (        }) Tj T* (    }) Tj T* (}) Tj T* (int main\(void\) {) Tj T* (    struct parcel list[3] = {) Tj T* (        {501, 4.5f, {"Madurai", 625001}, {12, 10, 2026}},) Tj T* (        {502, 1.2f, {"Chennai", 600077}, {12, 10, 2026}},) Tj T* (        {503, 2.8f, {"Coimbatore", 641001}, {13, 10, 2026}}) Tj T* (    };) Tj T* (    sort_by_weight\(list, 3\);) Tj T* (    for \(int i = 0; i < 3; ++i\) print_parcel\(&list[i]\);) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+19 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2440
+>>
+stream
+Gb!;dD,2*B')p1[.-8ARJj%>ImD7Y=`"MbZAV")?3^rAbWBJ_=HS]U)mX]Tps8AsD?>P67)tN5+-%_`RY3MpVHKfIc`kRQ05>2'+)8bpI%QH'L-fFcc&&[;`I(8onc`&2gNn"S"[L^'e[;><Ma*i=3+!mOi11=AXkTc:-cSjd'\q_Za>C1<uS\QpF'cuuuLNEZ"LK#5nrfLG%1'N#D#fFDbp_F>\l^uOWJ$1`(gM)WA\lPd>Y2tp@*RrXr(NYP\o5?W"d9t$&SJQT@f6V:?fBU$<b"b2EY.\nsG/:FgpbIQ0),F0Xg0NIAHaq0\G3i_jG.S1t*S\K$"@b?aadD<dnoiW/C`E?7XcZ,k;%^rXZD`k,\D&aTcOSigXrT@nh1VrkD1n701JmfsLG6mT=-06u-:Jo,d]s-9j@k:j#*J0Z(hfN%R:L=J/<,0/-)RXCTg@RoOS;&e,j3_/6Lm_miMfj0OBF</`H1P*.e,ID-DQ2kY^rS!2*-E\>a$TM127;&ZH5Lf0KKKG,Sr2%+HekLF=blb9-I_baDrjF4Ekm\m6D<=D*V;Ud-Z-`;0Dh3W*XI4PeC!LM4'*S'+0.Yb@MHD>TmhhE_GtbM`WPn>bm!MHJRbF,.4()odn!rL\gd/diA!B8#-tg/U=&B39K:i#15-epe=r]/"MWsAMQUB]1bW#2$m'u>dc/b\<JK\(E1^1s)D4Q;P;VUEg]Y4"f:f!k)l$)cl5i5L1Ei?-kbcd!9>J+gK8GKoW6o(hU42:')B@QW#aSIlGc@FEs,/>O!Ct7NJU(B`H)E)19'L_,',n.84RRL7BW<8H&EFXr.TVfZ@L)#aEM#XfB[9rEog_'!hOCNf/S#"HLh/%NEipt[oXBt=#Y)Eoc>a30<[TgL>Pck?f)?;d-mK@-eTi,H'kMd)e,ce1bJ7r`L9Q^\8<4[(6RG1Y-W3/]X[Yp)tS$6N`[;$pQ!2ro&9\f,st^Cb#"g/"3OK&F%daV7Lm_27!"bKe/uN!"*bf%9;J,Ms8"K.ACDt3;itNMg'&ESG]Al:3ZGooBp$1I$kibTG^fJYr6sp"p="9pI_3;+G^hIGgk)"=0&8(p:a7GM1ElM>I%W7030>u?@-*lgj@eG:j0b_d@Cn`DkOk@Y:,-<W/^)fec&=&bTEU_V.)T(W6Y.S\kp>5<@X#mF9T#7VPVXjTA)3&Q"nsg(eZql9Pjesi*R[X%mX2e%pqcY:rgc10_@7ha^iV1AWX5F&oU,t>^&I?a%(^n7N!9(MQ]'8MG$Fq%%tMAP;#on%EaH$4W;`(7EWe](Md[!W&kgBnP[_i4hqS<>M68B+#k3$fn@lZNIW+Y3D@I=1lLZ63Ef0)3So8;%`Wi9AK8Mf"1Dcqc<Z+WM,@k5VMK68_M.NfJ6_.r`fOC?12R-/ti=f[FI5igZB3?=Upt'Z\(u:/<7aBK(KH[c6@PW_8!k\na94`+VJ8>/j?Ti46W.1T1,Kq@Gh'1J@?Ja/'F>lBorZT]D/g:ci.348hR_<L@rkD4)#H"b)Zg=90jV00@`3QibS"s'U'TrR)g?:f1hiWK9"R&Y&'OQTi&%P(QZ%[Z``$YTP>L!As7\fSb[e]<7`^$T9cKK3I@l3,e@/[>fY^Kbi:Aq:c6mVCEp*85IIr]K3c*i6t5P<8fF7>.i')'k>1J<6W*;R+[](q21PVA5[%-Z#G>m3F;VLNiT0V2eOYX5[O)E*iQ0GdM++'[(#/BIT_UOi!l@'+C)",W>17*.C>+5T+DY240kaph`Yhd/)2BA!6rB[sfoP<54o#1dEF&0U'U!lFrc18)*W(D6S1N>UbJ9>Xiiff"QgqukjVNfF7Z?*aC#ZrK6CqMH^*jbm1f[3nn1qNXEmo;GFLOQ.RE;V)BfU=2,JEQ3&Y-bLg%$oY_:WU-"n-4[mqZe!'+2h:j=[0ir"%pM?VV/gC"<dWI!?OBe@Ci]_a$ECI]?k\N"q-FF"3aBciXla4GRA5(<;t6sGYd@N,;\jWd/lFZETbiE.MUV0]2>9g)9C^A#5qgk)Mladd"64Et/!i9eYFJ:N[@"r`BF-;lAnF=2'KgW_;_Ce\?_(o<RjrklUoFuphY*fiD60Cb+t43hMXK.;RoW"8]R!kA4'l9*#IZYlpFC]#@`.NFY+>F8N7s]*hrue_+_k]7)Fj<qL&U9YB\%uuF^q8P#]`oU+\ZV^>#dL\jnO?p#df(LIfg(]Z>pkf1gMSD$OAes_fa2d)%Em?[`nq-8mk#Oi6U%Nm/UL$0@8DAh"q]Y:1L)!b/gE-:cuc,J3C5QQdJWq!X/^lm^BuJ#o])Z3124dBaU5Y*;PY4D>8hN<]T7"1lh^6&%uVC;HYF;nDd23NFW-!2*Rc.,i[\eb449NXX5e[J0Ds$![X<r(9(0$a`'^2(aS)[lGU?Q=^m+VP(,'&7lf%ljqc%rG+P*u3_h@gZETdk4n/^Br=@)*DP[~>
+endstream
+endobj
+21 0 obj
+<<
+/Length 5916
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 782.0394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 9.9 Tm /F3 7.1 Tf 8.5 TL (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 765.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Expected output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 736.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 18.4 Tm /F3 7.1 Tf 8.5 TL (502 1.2 kg Chennai-600077 12/10/2026) Tj T* (503 2.8 kg Coimbatore-641001 13/10/2026) Tj T* (501 4.5 kg Madurai-625001 12/10/2026) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 708.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (Each swap copies one full struct parcel into a temporary and assigns it twice: three structure assignments, roughly 3*sizeof\(struct) Tj T* (parcel\) bytes of copy traffic \(compiler implementation may optimize\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 702.5394 cm
+Q
+q
+1 0 0 1 45.68504 663.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.3 Tm /F1 8.7 Tf 11 TL (Nested vs flat design: nested access is p.receiver.pin; flat access is p.receiverPin. Nested Contact/Date types are reusable and) Tj T* (clearer. Flat records avoid nested member-access steps but not necessarily storage. sizeof may differ due to padding; compare) Tj T* (with sizeof on the actual compiler, not by adding field sizes blindly. Sorting is O\(n\262\) time, O\(1\) extra space.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 637.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (TASK 3 \227 UNIONS AND MEMORY LAYOUT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 619.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (3.1 Designs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 602.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (All-fields structure:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 591.0394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 1.4 Tm /F3 7.1 Tf 8.5 TL (struct all_values { float celsius; int percent; char status[8]; };) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 574.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Tagged union:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 528.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 35.4 Tm /F3 7.1 Tf 8.5 TL (enum kind { TEMPERATURE, HUMIDITY, STATUS };) Tj T* (struct reading {) Tj T* (    enum kind type;) Tj T* (    union { float celsius; int percent; char status[8]; } value;) Tj T* (};) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 511.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Only one payload is valid at a time, so the tagged union saves memory. The tag tells which member to read.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 505.5394 cm
+Q
+q
+1 0 0 1 45.68504 488.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (3.2 Size estimate \(typical GCC 64-bit ABI\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 471.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (All-fields structure: 4-byte float + 4-byte int + 8-byte char array = 16 bytes \(typically alignment 4\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 443.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (Union payload: largest member status[8] = 8 bytes; union alignment typically 4. enum tag is usually 4 bytes. Struct total typically 12) Tj T* (bytes \(4 + 8\). Actual sizes are compiler/ABI dependent; verify with sizeof.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 437.5394 cm
+Q
+q
+1 0 0 1 45.68504 420.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (3.3 Completed code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 213.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 196.9 Tm /F3 7.1 Tf 8.5 TL (#include <stdio.h>) Tj T* (enum kind { TEMPERATURE, HUMIDITY, STATUS };) Tj T* (struct reading {) Tj T* (    enum kind type;) Tj T* (    union { float celsius; int percent; char status[8]; } value;) Tj T* (};) Tj T* (void show\(const struct reading *r\) {) Tj T* (    switch \(r->type\) {) Tj T* (        case TEMPERATURE: printf\("Temp %.1f C\\n", r->value.celsius\); break;) Tj T* (        case HUMIDITY:   printf\("Humidity %d %%\\n", r->value.percent\); break;) Tj T* (        case STATUS:     printf\("Status %s\\n", r->value.status\); break;) Tj T* (    }) Tj T* (}) Tj T* (int main\(void\) {) Tj T* (    struct reading log[3] = {) Tj T* (        {TEMPERATURE, {.celsius = 31.5f}},) Tj T* (        {HUMIDITY, {.percent = 68}},) Tj T* (        {STATUS, {.status = "OK"}}) Tj T* (    };) Tj T* (    printf\("sizeof union = %zu, sizeof struct reading = %zu\\n",) Tj T* (           sizeof log[0].value, sizeof log[0]\);) Tj T* (    for \(int i = 0; i < 3; ++i\) show\(&log[i]\);) Tj T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 196.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Expected output on the stated typical platform:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 159.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 26.9 Tm /F3 7.1 Tf 8.5 TL (sizeof union = 8, sizeof struct reading = 12) Tj T* (Temp 31.5 C) Tj T* (Humidity 68 %) Tj T* (Status OK) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 120.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.3 Tm /F1 8.7 Tf 11 TL (3.4 Misuse experiment: after writing value.celsius, reading value.percent accesses a different union member. In C, this is not a) Tj T* (meaningful conversion; the interpretation depends on representation and is generally implementation-dependent/unsuitable. The) Tj T* (tag must always match the active member.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 114.5394 cm
+Q
+q
+1 0 0 1 45.68504 86.53937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (Why 12 bytes: enum tag \(4 bytes\) + union \(8 bytes\) = 12; union shares storage for its members, not adds 4+4+4+8. No extra) Tj T* (padding is expected beyond alignment on this common ABI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 80.53937 cm
+Q
+q
+1 0 0 1 45.68504 52.53937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (Alternative: separate arrays can use type-specific storage and avoid a tag per packet, but need a way to associate/order packet) Tj T* (records; indexing by type is O\(1\) for direct access but searching a mixed stream may require O\(n\). A void-pointer/malloc design) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+22 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2196
+>>
+stream
+Gau`TD/\/u%/ui*6#=X),`\U#gPOYbBpKIPMPX&&:NJ7\V6d:)enM^Z>;+'I+*i1;SCk++%TiebZL1-OaG8hD=^^7(V*Fnr^mb@p>[(Uh0GoH()D2HT_pr/`mld`(l$>gskF!rE]3W<r:0i5WQVG/`:A.M9<=-&Q_h#WtbNp*P/^tu,/ZD.\,qqkX(b;1E&nM\$:KYaRNu#O*8GIEI5f+;!?idJk!4>?Wbd_*_;lgMRpUQM"9"5bIXPj2-$e5s@PZM<aR4:XZ+pKdbl'1AJ%Uec0#)CPDVee-KZ-'P/Z(H%`3QQmLgjfEp9[JYJVT$F=6CZg4$!GUPY?YcTMm\eV"<hY[rmW?=Tdr@es#P@MelHu1^9l:kg6E]Gb/)'Qn)2(0[_$K;\G^M0piLidf/L0?J)%`L]PF1oEOMmU2[.Ve/GP3c\Zb(;9q>4lVJ0%]Rqp*af(>4#5`5f^3smI(C5;j^1LC^q6l+g,)[sX2IeS+If?j(WZ=nk)0G?`3?A.hOQn`%^M_SuGPf4<k-=R)s+bhZ`l":EL(W22cE>oP-<X$p#"e!;bZe5Td:D$APTe,;]T/hhH!(PaVR9UqU`p!L1ZV2iR/?k&Rd[32KU0HgVQN<Es`KM_.h\/,U7-mJs4^$UNZsmb'lAj<"@8!C-Ki7k`IP-Rt"'7\_X8t@D]j;G`oc(KsiVO%<Cq'`P3[jKC(iV<V]1q.]AU&pOr=:>!MfcrQ<f@Pk6e7^Q70$4W,9%Wd,')(cT&FB.joU1D"_(sm6jfkZ+k#d/QNR45.>E+1D#G'f&l50O7,mE,B<\!:L[e/WN.P)O3'?ti%1i:c&sh04H<pDfW:dt5=JiWVi1[_K[2Q-WkU1O:3eTtQo,1lPrOlcGD9k&`LGiJmD9FQ8STYOI*r>158BRMe=b3k+kH"Kgf[C&6^?o>TlK_p9FfUnE(hNri0^5h^N!]MU.cs\G.0%=jlr+#]<<>$$CbhA[@9H)=jG;FP<OT$ei*!Z2:Z_*^gLHUK9.XfbFu(TWgMM$!dhh2)AQd%;L1L)t]4@-Lb[3pVKYj+J=##(*\9f?KjoqYi,Z"O/51C^`2>n#WcTcT#?;I3TYBp0bk4nsMTuSNQ:^0Kqh1`,MCa,?8>W;QToa73Q*$'`Hg5:gZ<!t.7n7[jrY0,Dq!;6kKS0r&lHsW-=V"2so8"[1tA`mYoKl'hr.=Z84R<"Rh0s%EqS#V$Tft/W]9r=(ISSc[nVsD#UGO3Vpe3V0+B+l'*lD3b7+j[LNhP6PMoGkJdCQiZV\%C0LS*;pfs%c0lONM*=UI!1e7Un%U4Q6'da?Y1udJt.a$K%^C/d`ni9I`fI-g4Wc8oLY0fpi9.`(Vg,q20ES`E/#4+RuF+N7(9K<G@]a$`Tjh+2;<5Hpr@[Eg`A@PJg^fVH4s?2%gb+#1_LKXllaqA,f(MMU:c.#EF)gj5V-Y%H(nYBRu2QH1"kt1b[fL)]6^@Xe-.d.<?=RZNna6Mj26po!J4&eZ+3p,QK3oWQ*4g7)\!+W3`dG@]W!^gK!X/FQ>K&k6XMI4Gh71NiKBU@28CQ/.!P1i+rE<;;j)(LT8[@oV;`P8S&>@R3BBYJXNfGNet0%Gff$%X^]9h/JOONPL0e.X[<jq6,n[b)Xp3=[q?$<%-C@U:jAZ]<fTBp7jFSI"h$]'KgQ.FMX0A$.NC+"BeuB(,p#@29*o85V.cI%V)D$XZ>*EG*k$#oK,h\lZQ3eMB2Yq'8T/K"hHn%[qhr(uWs80om?kLuQA=#a>%A@,C+tq,=9j&rj@fkr#GIb#OA-A?[&[''0c/S([SW#sBZ"1LI-!3iUM6(/LY7I)\]i?o,CLMPFB]9\HJ\'W?/ApG0\&#AH%j:i!H#*-*t;%[FaCZ(EMm+W)p@Q[S0pN?S!\\,:LYPiX8\"g3N#)8JZ<D9o\hV5M>[OplYRoOF2/B\B<V\O3E=tTnJFnUhI3`9_W'>r<2R.:%G.CMf1mlMrn3`2ClI3A+^4nt9iEdE],MR8[aKCeL))tRm+l2cT6an8k?Mk,hZi@h.!(OVU2U4Ja->5DET6XiJNYK4Q?o%H@MnWH4.7oC6Ao]l7n3<ddjtuoCk*W%[-j$`IX(!<i%:RoSS3!g7"S\t%G</hB>r5\QE-K%W;<lQ@nK;;>!>ou&S*T7?%$1AjR87!TNA!W87"G%Q`OW<B9EpNC#T,*l%"hAYkKeY8nVo~>
+endstream
+endobj
+24 0 obj
+<<
+/Length 6024
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 777.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (stores a pointer plus separately allocated payload and type metadata; access is O\(1\) with the pointer but allocation overhead and) Tj T* (fragmentation increase space. Tagged union stores O\(1\) space per packet and O\(1\) read dispatch.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 751.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (TASK 4 \227 STRUCTURE FORENSICS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 733.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (4.1 Defects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 694.0394 cm
+q
+BT 1 0 0 1 0 24.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (addInterest\(struct account a, ...\) receives a copy, so modifying a.balance changes only the local copy. In main, p is a pointer;) Tj T* (p.number and p.balance are invalid because pointer members must be accessed with -) Tj (>) Tj (. Correct expressions are p-) Tj (>) Tj (number and) Tj T* (p-) Tj (>) Tj (balance \(or list[0].number, etc.\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 688.0394 cm
+Q
+q
+1 0 0 1 45.68504 671.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (4.2 Address evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 591.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 69.4 Tm /F3 7.1 Tf 8.5 TL (void addInterest\(struct account a, float rate\) {) Tj T* (    printf\("inside copy address: %p\\n", \(void *\)&a\);) Tj T* (    a.balance += a.balance * rate / 100;) Tj T* (}) Tj T* (int main\(void\) {) Tj T* (    struct account list[3] = {{101,5000},{102,12000},{103,800}};) Tj T* (    printf\("main address: %p\\n", \(void *\)&list[0]\);) Tj T* (    addInterest\(list[0], 4\);) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 574.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Addresses differ, proving the function's parameter is a copy.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 568.5394 cm
+Q
+q
+1 0 0 1 45.68504 551.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (4.3 Repaired pointer version) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 429.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 111.9 Tm /F3 7.1 Tf 8.5 TL (#include <stdio.h>) Tj T* (struct account { int number; float balance; };) Tj T* (void addInterest\(struct account *a, float rate\) {) Tj T* (    a->balance += a->balance * rate / 100.0f;) Tj T* (}) Tj T* (int main\(void\) {) Tj T* (    struct account list[3] = {{101,5000},{102,12000},{103,800}};) Tj T* (    struct account *p = list;) Tj T* (    for \(int i = 0; i < 3; ++i\) addInterest\(&list[i], 4.0f\);) Tj T* (    printf\("%d %.2f\\n", p->number, p->balance\);) Tj T* (    for \(int i = 0; i < 3; ++i\)) Tj T* (        printf\("%d %.2f\\n", list[i].number, list[i].balance\);) Tj T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 412.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 375.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 26.9 Tm /F3 7.1 Tf 8.5 TL (101 5200.00) Tj T* (101 5200.00) Tj T* (102 12480.00) Tj T* (103 832.00) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 347.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (4.4 Use value for small independent records or when a copy is intended; pointer when the function must modify the caller's object) Tj T* (or copying is costly; const pointer when it must read the object without modifying it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 341.5394 cm
+Q
+q
+1 0 0 1 45.68504 324.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Alternative value-return:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 274.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.3 Tm /F1 8.7 Tf 11 TL (struct account addInterest\(struct account a, float rate\) { a.balance += a.balance*rate/100; return a; } and list[i] = addInterest\(list[i],) Tj T* (4\);. This involves copying a struct into the parameter and returning/assigning the result \(compiler may optimize\); pointer passing) Tj T* (typically transfers one pointer \(O\(1\) bytes\) and avoids record copies. Both approaches process each account in O\(1\), total O\(n\);) Tj T* (stack space is O\(sizeof account\) for value approach versus O\(1\) pointer parameter.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 248.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (TASK 5 \227 STORAGE CLASSES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 230.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (5.1 Four versions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 213.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Automatic local:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 202.0394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 1.4 Tm /F3 7.1 Tf 8.5 TL (int auto_token\(void\) { int token = 1000; return ++token; }) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 185.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Output for three calls: 1001 1001 1001.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 168.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Static local:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 156.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 1.4 Tm /F3 7.1 Tf 8.5 TL (int next_token\(void\) { static int token = 1000; return ++token; }) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 139.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Output: 1001 1002 1003.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 122.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Global + extern \(two-file example\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 105.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (File counter.c: int token = 1000; int next_token\(void\) { return ++token; }) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 77.53937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (File main.c: extern int token; int next_token\(void\); then calls next_token; the single global counter persists across calls and can be) Tj T* (shared across translation units.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 49.53937 cm
+q
+BT 1 0 0 1 0 13.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (Register loop variable: for \(register int i = 0; i < 3; ++i\) printf\("%d ", i\); register is only a hint; modern compilers choose registers) Tj T* (themselves.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 43.53937 cm
+Q
+ 
+
+endstream
+endobj
+25 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2802
+>>
+stream
+GatU4D/\/g')p`p0u2ca8_7ruq6eW+!GUOt"Ds@Zf(Xp1=O7[lF/ud3;GqG\s*i:UP3d"K=IZ[J*D>J;E9<RVB@s+'rqGemO:]*se+#[!eG!Vt;1I4=dek]AjtElEoW+7p;0P,ConG:@O1W*AX!.2qFjIeQWu$lEDhNGSmXXGVPr\5,XO'.h4;`47i\i$HL,,+j8.,d11+f:[-Y*Q]W8Mn8B1iic%A'OM23^]NP**<%U6'P\U`6"m=N8ccVFf^>/culS(.+iI>r>N.atq"d*A)u-i??HqU\RPD#XfY*>tJN8OHdn6>9fb\r$XJ6,a!hW$lP>k:g6bYOb"(sV:-',f,M+SZ=$f\7BiYf9S3DE+P,-fK;6=XOeu:/R$,6q2Oi#9Y=k8fP&=:)cH:`^c%IF"?R`m=i[i9^<l-O],ZC_[rf5p%SGe5N.GO]%VNm6H/].B\r4b2/]dC\l0,P2mA)Lc$%-T68&5?`A["UAD$c"p$m"bdrF$e&0$U,eA=Y;f0;8Pl!=@KMl$(`joiRUDnN/'/WL^bE*6A\hC/jmA`XGn]"`CC4'D/g_Qfe=P3/6(#oKo=!TVL&j(+$=p#QRU435Fh.bS]1.Jf@`cSjN\($_Z66Xf]"$<OXT7AI[<*"*;VO%$nZ%1/#<>"1<:.ZNj1%id#Bg'!\Q>[PRW:]R(#*PV"^scb:eZM=qul-MGu.mMIAYuF1ES2aroi8_<Ik/,W05#_;iW5,"i`-S_B:)aL#&@$;7k%A"@X^#6AEg1fkl*16BDul'M1U(?l/ZQQ#p6K5(t/*$u7_VeP1XTss'KHemY.YiCu%HgI*11:.,[((.oXI^1=P="DAmL]f24;emlGpa!^QF(2W\#+/41\?[Ys+A/to_\n0N!'Al9+d(sXL+DhUS0=VhH?<H0KLdg;QbUY8B]C=Uo^l>&741QfLGZb,^T+mTS5InY^JVbtlZ&d<-/eCD:\M'N_Q;VnCjsa4fp<\6QXOaX$!Yg?&!&pZ/qgT[lonTtCG^H7VYt.5(B=Lr.$$dsf:biWS'3bF(3Kn6c=GIPE"!FF/7+SJ2][/gimMCFVF.?]8m3Ds87EI$"d]fD!]AFRBAqE]QY_`d*'s29&qHu>npV]W9-sq'*_feBQMOW"gTHa'@uRlGE=Z?Wn[36#.LiaqqfYSW)dc?pO8$T?B^uRFg+Il>h57Eh[T(1M`SeNNH.'PpDqZ43qZ$+-jY#"QH[+O59&RDV9W10eVT/lMB[Z:S5nIKWiiG[J7t7p,YctlL<gG<Il0C6!('iUW5(.2ja#e2"Wlh=O0Tp='qKJ:bl)q<6Z&iaBqV;N,"H)V,j?@e[HAt#c4SEE<f#C%/Xqh7j[\]!Vh'`7I:c@GA2+M.#&7r$..DW!e\(q9,Y>$Rk*RH]b@18LE-6!j><E3*=8-4r)5"j+T'591,(`>hs$>_2=Oc;o`(:YCefDGJF3=4e\@!sl?5+8*mGXGtEGi",!:+te:fd0p/rd/fK^\[&AFF&4-Y:nbH]t"!NKb:*M?6^N8SM>XV9+,huS=X4eTS$A[XAL]OQ0^)](qb1+&Jp-p:-]a5C(ssD"1j('/Ir=b1!ktCr3kP#)/rYh47Vm_<DBio:_]Wu]KGZI<k]BdB>H,f=``\k>QNtq];]2j)a.Ku=b['^p#auQEnhOKK'ZQ&Qqj9K4BZ+t.!$^X`EGq&#"ah=L0S8Q&2=D1:m)/WD/>[5T5N*_9TCL.o&E@2#/Ed>2E6*"2*Rb05eBaY,Qb5Sl)`*gm<r^%b&J9KSmDYO.5;'u5TTGP!i#jsAQlm;Ke/FIa1.lLG)3S7LY4HDJ_^7a@2N67KiWe$[fVOV74;OY*%N.@Lh4_fMX'0Q)maAo!CtN$[t9-4ZP15KV^3XsD]4rk*X#/ed`^1k15n,?)b_0bh7pb[hd@M)=WY8oL_0#6`1+2#fn9#NrrOK-kA`r[22[B\].,6eq@Zl3qT]3M!&D=KE1g#N@eL/&MU6?NoCpnV_3QQ3eJ^h,MjtJ5"1ZnnL<n651j?k>%<KuE#/"Z9@=V_qa3E+r9)KGUORG0!QCWkL)ei&H</rhCb$a3QR4Mnd])/(h)Z]55[MP3K]X7eF[KsE&)*K$]DtJu41rbGpe9ZJ<e\[^1IU.TRK@Rr<?(&;m8P0D4Fl![nR]813(-I6P&XQMW_P8,5Y2*VZ>?#C0(TY>N.kp>=bU'D<*\;[t@B0bWi$r2r&hnCUKk36p.Q\'i<e[(5NYaFBYI7s.7LFR6!2Adh])mqJA%Q_[W52Ou'SpL[g2\R!d`>`-7d:B1CB7D0@ejE-<*pWtOe+5R,Z!_S)bb%7OZ?CPmU49A$+l!qO1PhQ>+j*jXe9`i`tK&7G=,h#]GX4tGKo:r"OF32_4$p^MX7a%DpNbM^A[:P)Yb/5_M>^C33$3?CneM@<D&VjiYY58G%+So[U9f8oaN6tC1P/JoBLmpjTj"QE>_CFX!pB#Fk;+]]`3VtoTAe6oY8.Ib\-B.n.]p3gU!r)YHMWd]OR7^fC]UE=*n9cG*3=8oZbrfs7*K65r$e7.`GN4>NX_l^Y=@+Q!hN,e$D!25L2S;c`XG-\8Sh=S#ru;/:L!V/bH34Z6En-GU+?`_7!<bN3@`F&bE@mHh^8a1`mZLIHo1%Z+9HfFg=gq*Z*D?+T-;4ID/>&Q9Tj=Gb=ori0H%nG#d)]UGro%U\=.IEXhANirRoTr8qtZ\s^=@crDt^)G-lO%!I*Wk7&uQ#d"nXUFHnn'"RPg*I!(BOMrj=fO21XO.SI6<naPNYVY;\3*O4jPD)02c$`qTQ/o?=1Gu4>VWNr71VNQJYYg2e~>
+endstream
+endobj
+27 0 obj
+<<
+/Length 6668
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 766.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.3 Tm /F1 8.7 Tf 11 TL (5.2 Two independent counters: static/global versions need separate state variables or a struct containing counters; pointer-based) Tj T* (caller state needs one counter variable per type and is simplest to scale. Auto counter resets on each function call, so it cannot) Tj T* (maintain a sequence without caller state. A register loop variable is not suitable for persistent token state.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 760.0394 cm
+Q
+q
+1 0 0 1 45.68504 743.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (5.3 Comparison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 726.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (- auto: block scope, automatic lifetime, indeterminate unless initialized; resets each call; local and easy to modify.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 698.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (- static local: block scope, whole-program lifetime, initialized once \(default zero\); persists between calls; still only visible inside) Tj T* (function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 670.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (- extern/global: file/global scope \(extern declaration references definition\), static storage duration, zero-initialized; shared state can) Tj T* (be changed by any code with access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 642.0394 cm
+q
+BT 1 0 0 1 0 13.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (- register: block scope, automatic lifetime, initialized as declared; suggests fast register storage; address cannot be taken because) Tj T* (C disallows applying & to a register-qualified object.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 625.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Completed TODO: static int token = 1000; return ++token;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 608.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Expected: static: 1001 1002 1003, auto : 1001 1001 1001.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 580.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (When calls are placed in one printf, C does not specify argument evaluation order; calls may execute in a different order, so) Tj T* (displayed sequence may be reversed or otherwise permuted even though the counter increments each call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 574.0394 cm
+Q
+q
+1 0 0 1 45.68504 557.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Caller-owned counter alternative:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 528.5394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 18.4 Tm /F3 7.1 Tf 8.5 TL (int next_token\(int *counter\) { return ++\(*counter\); }) Tj T* (int veg = 1000, nonveg = 1000;) Tj T* (int v = next_token\(&veg\), nv = next_token\(&nonveg\);) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 500.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (Every call O\(1\), counter storage remains in caller and follows its lifetime. Two independent counters are easy by passing different) Tj T* (addresses. The pointer parameter itself uses O\(1\) space.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 474.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (TASK 6 \227 CANTEEN INVENTORY AND BILLING) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 456.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (6.1 Entities and testable requirements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 439.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Item: unique ID, name, type, stock, unit price, and type-specific data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 422.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Packaged item: expiry date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 405.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Cooked item: preparation time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 388.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Combo: up to three component item IDs and quantities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 371.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Sale: item ID/quantity, amount and time; daily summary groups revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 343.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13.3 Tm /F1 8.7 Tf 11 TL (Rules: reject sale when requested quantity exceeds stock; deduct stock on valid sale; warn if packaged expiry is within 2 days;) Tj T* (combo sale validates component stock; print revenue summary in descending order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 337.5394 cm
+Q
+q
+1 0 0 1 45.68504 320.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (6.2 Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 281.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.3 Tm /F1 8.7 Tf 11 TL (Use Date as nested structure. Item contains a tagged union for packaged/cooked/combo data. Array of Item records holds) Tj T* (inventory. Sales records can be stored in an array. A combo references component IDs rather than embedding copies of the full) Tj T* (item.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 275.5394 cm
+Q
+q
+1 0 0 1 45.68504 258.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (6.3 Decisions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 208.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.3 Tm /F1 8.7 Tf 11 TL (Stock updates must validate all required quantities before deducting, to avoid partial combo deduction. Expiry uses date) Tj T* (comparisons after converting dates to a validated day count or comparing year/month/day carefully. The inventory may be a static) Tj T* (array for a fixed capacity; no global state is necessary\227pass arrays and counts. If a shared inventory is required by several) Tj T* (functions, a single inventory context may be passed by pointer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 202.5394 cm
+Q
+q
+1 0 0 1 45.68504 185.5394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (6.4 Structure and function design \(illustrative\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 46.53937 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 128.9 Tm /F3 7.1 Tf 8.5 TL (#include <stdio.h>) Tj T* (#define MAX_ITEMS 100) Tj T* (#define MAX_COMBO 3) Tj T* (typedef struct { int d,m,y; } Date;) Tj T* (typedef struct { int hour, minute; } Time;) Tj T* (typedef enum { PACKAGED, COOKED, COMBO } ItemType;) Tj T* (typedef struct { Date expiry; } PackData;) Tj T* (typedef struct { Time prepared; } CookData;) Tj T* (typedef struct { int ids[MAX_COMBO], qty[MAX_COMBO], n; } ComboData;) Tj T* (typedef struct {) Tj T* (    int id; char name[32]; ItemType type; int stock; float price;) Tj T* (    union { PackData pack; CookData cooked; ComboData combo; } extra;) Tj T* (} Item;) Tj T* (typedef struct { int itemId, qty; float revenue; } Sale;) Tj T* (int findItem\(Item items[], int n, int id\);) Tj T* (int recordSale\(Item items[], int n, int id, int qty, Sale sales[], int *ns\);) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+28 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1967
+>>
+stream
+Gatm<?#SIU'Re<2\1[rS_3Xb*fhU*!Y3iScdj0"IojJmG7\X]V&ugsl'*%i7;R2GiBqng"!$fhqcafD:SpMjjD#A@uDjUR<?U=_9!QTmo%$#9%YW@R8lKIZWWLi_e<\PHE4q'raAU@o/h`L\r9$ir`N$q,i.jE&sD&sL_,@#6gl4Ctd(fhM@GVHKENA7^C)PV<!P6gA^Squ2=,$;]?lV>Nh<3T1UK*6\bhu@dA@1$*QAjfKm4<hE1n`_d0^;B0eC6;cZ1J<$i=[B7%5XP@5Y";5Oim6(Go%E=Gjr^c2)@Ymrmp6II#1rFg^`8;HBThPG\,qW8i9$1<&J'.T^VP7;d2sBh\=?>JQa;1F-g1)D8*=_DlbZpnQqA')Wr]fp4@=T-Zp]3E]r).,EusVKdC?*9`'A2c`C+cE;h3a6L!Dca]--<=)Chcg.4iJk8M+Dm8U*ld2!TjdhpMc9Ma/a5hSO1gZTT=R8CWqA$GnB')_Au!aTa;KnaQ%-6^AnADYOOn;j#![^`!tMI4aVU-]pS>;Fs6(9-hS&Nfu0EGKNHoF:V9^^Oq>37ApjERZJTDLQe;I+ACQrOU/PEBe4M^Zi-?+Cr.Ie%VIOCBiq1BpdiC49ZfFF=JE/DKG<"/401BP#o,ZaSB<,'WNIo1pO\-)PkA)<OesKuD/)DS*OjArWX?SH9#?\47bN!XZN'b'G)Mm7NOJj?)'"T=KR\0U"A6P5.Dl?l6aoMISf&5=],[YC_UW2nC%>[rCB-G00jAVna`A@N0KB"es2FrE47K:T04+n]mX(rT-tV_))5Q)'r9D\`A5!EE;%#fVK:;c-ofRcH`U)i84X\U8I%4Q.K,l"*GL1l4la3Tk,dKCF!+Pim5d3r>7e+No+*XSHC(Y7CPsD'HC6VjcBG%V[A>M'(,0L6a6E-%ZDK^A@`:5-@<)>`($Y]f!9rXOnL?0jhXugIe#4D=)E972%(W/fh'&#bAr4uT/oii\!YQC3>9`%RN%.TEM.N?`T>9pZ_IuuRe-4c0BF7]a&n?Aaj)U0[+NdUs3Va?F#\6F:bSCCNTkd93"KS>"mdX#P24[@7?D3A)7Kam=4I[QZ5hkONs2&`#dQO@E<)N>Z>o>WB[:(OKW-Ws'Ud7di>$,[QV]2&&,"]6K8PjFiY)RaTK4fDSpm"1G4Vi55&Y3^F0m<9BhTqVk*@//b_nXR'Ig`(X%s*;K.P4qjr[m3h["iHA2V^LU(B':!%/dj3uEu*8+MU=q9G$G8"/6FSt;,rF(/L?Mp#A8Idh0d62WNP*sXAk-g'G;U/d<2@7#Y9n)e-AO(e^#s5#qr*W[2>HFUt;X'.p&u`+p?S-<].$tDM6T$Y?DXd4X%WTLHb*=[\<5d[u<PUdukG;+X=V4D$IOF@]d>oqV@Ue$eR45?ntaGcGVOFZ;1TmWpj2Ps-]ZsBTf7h7&DtR/qhMG(Pk7'b9tdY4R6CZGVGFS4P\@kN$?E=FD&E-InGb^T"r%*(pd`hihWZS-_%=",FFjH_DRescWio!9kk7/(&HR]/)9[L$=),G$]\jl.O_4=TC4utY-/Y.(XRs!HntR]LZukTo[EWqHIW#*9fju8P\-:HgaPO1/e]em*M=,)RI[-Spn3>cSmG3/\*&^&JK*7%2sO,59K!=D.)4X>gM:6.=%(p!:*2uJ+`L20?,2!^6<WSN@0baJThK@7ZLT=p_f]0CE^RhEBiOF70&9@oIMNZ2eDer=U#Q)/.`3&$aA<cH6#20$@O)Sor#8B?3"0!#-,UniUZ<RTAZbR_[;\:*7TimD"NU?.1j5B)8ZBW@__+jS)oAt<BEQd7^O1=EK0V(\L?!_S^63gW.k8$tq/+(@ZdjV_9=hq_W[DA?h,&(m:QjDh98V7%H&A@P8N#RaknK+JomoYN[H!P[#<'j:*7YZ,Cm/pbq4Xf/)>"Ldb>[2K9c-4c$^/<_dTlF?MVa'^r*D7Ra3duZN?BmhX2*,4CZHjG~>
+endstream
+endobj
+30 0 obj
+<<
+/Length 6224
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 782.0394 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 7 9.9 Tm /F3 7.1 Tf 8.5 TL (void expiryWarning\(const Item items[], int n, Date today\);) Tj T* (void printRevenueSorted\(const Sale sales[], int ns\);) Tj T* ET
+Q
+q
+1 0 0 1 45.68504 765.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (6.5 Sale pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 748.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (RECORD_SALE\(itemID, quantity\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 731.0394 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (Locate item; if absent or quantity <) Tj (= 0, reject.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 714.0394 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (If packaged/cooked and stock < quantity, reject without changing stock.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 697.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (If combo: verify every component exists and has sufficient stock before any deduction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 680.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Deduct required stock from item/components.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 663.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Calculate amount = unit price \327 quantity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 646.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Append sale record and update revenue.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 629.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Return success.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 623.0394 cm
+Q
+q
+1 0 0 1 45.68504 606.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Expiry pseudocode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 589.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (FOR each item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 572.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (IF item type is PACKAGED) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 555.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (daysLeft ) Tj /F4 8.7 Tf 11 TL (\254) Tj /F1 8.7 Tf 11 TL ( daysBetween\(today, expiryDate\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 538.0394 cm
+q
+BT 1 0 0 1 0 2.3 Tm 11 TL /F1 8.7 Tf 0 0 0 rg (IF daysLeft >) Tj (= 0 AND daysLeft <) Tj (= 2 THEN print warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 521.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (END IF) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 504.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (END FOR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 498.0394 cm
+Q
+q
+1 0 0 1 45.68504 481.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Revenue sorting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 464.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Sort sale summary records by revenue descending using selection sort; O\(n\262\) for n summary entries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 458.0394 cm
+Q
+q
+1 0 0 1 45.68504 441.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (6.6 Demonstration cases) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 424.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (- Valid sale of 2 units when stock is 10: accepted, stock becomes 8; revenue increases by 2\327price.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 407.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (- Sale of 11 units when stock is 10: rejected; stock unchanged.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 390.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (- Packaged item expiring in 1 day: warning displayed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 373.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (- Revenue summary: records printed in descending revenue order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 367.0394 cm
+Q
+q
+1 0 0 1 45.68504 317.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 35.3 Tm /F1 8.7 Tf 11 TL (Linked-list alternative: each node stores Item and next pointer. Insert at head O\(1\), remove by ID O\(n\) search \(O\(1\) after) Tj T* (node/previous is found\), search O\(n\). Array insertion at end O\(1\) if capacity and count known; removal may require shifting O\(n\),) Tj T* (search O\(n\). Linked list uses extra pointer bytes per node and allocation overhead, avoids shifting but is less cache-friendly. For) Tj T* (combo validation, finding components remains O\(n\) per lookup unless indexed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 291.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (SUBMISSION / README CHECKLIST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 273.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Recommended repository layout:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 256.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (CSA02-1912260199-Assignment4/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 239.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Task01/ source.c, output.txt, screenshot.png) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 222.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Task02/ source.c, output.txt, screenshot.png) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 205.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Task03/ source.c, output.txt, screenshot.png) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 188.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Task04/ source.c, output.txt, screenshot.png) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 171.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Task05/ main.c, counter.c, output.txt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 154.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Task06/ canteen.c, output.txt, screenshot.png) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 137.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (README.md) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 131.0394 cm
+Q
+q
+1 0 0 1 45.68504 114.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (README should include:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 97.03937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Name: Prabhakaran C) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 80.03937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Register number: 1912260199) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 63.03937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Compiler: GCC \(record the installed version\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 46.03937 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Compile example: gcc -Wall -Wextra -std=c11 source.c -o program) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+31 0 obj
+<<
+/Contents 33 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 431
+>>
+stream
+Gat=eb>,r/&4Q?lMRtF<\8dtG!EO_Y!um>O+A&J*+L+j0>5Ite%!7%c+Ct:*p7+4rQ:SO-3*%&=XY@GPO=AZt1(tPT")cY&4-C[EZaj3!o-D4/cUBTNcT$uHPB^n&,::JV1_hgF/g>AAN(c5Ca%o!.5YQN?2R_gETUqiP#GFY*hh`rHs2D-;g4n1_j?i1;2AT7k214@h`#l@!l0m?Z:Z==1lPbi$USYhQ(gR`"Z;H%%p]BM]Z_R4:E)4uY1+Sfdd=(L_'0K'`?*g7KZd:54aqADi)t*o/bsBY4k`3#_O5&#8nC,rk,*GBdk&[Ia`q2l'n;Ygci$J:$cu)Y17J`[;ROgsac4s7'/!`&0bakEfMYb.!_$3%63qe8[#o;se4DuIDk^?i.N17N[X=9"6]K:0_M*H[O6J46__s":2K$bO7;8+7~>
+endstream
+endobj
+33 0 obj
+<<
+/Length 678
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 788.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (Run: ./program) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 771.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.3 Tm /F1 8.7 Tf 11 TL (A brief result for each task.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 732.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24.3 Tm /F1 8.7 Tf 11 TL (Commit at least once per task, progressively. Keep code, input/output evidence and screenshots. The assignment requires) Tj T* -0.068285 Tw (execution evidence; the answers and code here are a prepared solution, but please run them on your system and capture your own) Tj T* 0 Tw (outputs before submission.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000015 00000 n 
+0000000156 00000 n 
+0000000264 00000 n 
+0000000313 00000 n 
+0000000532 00000 n 
+0000001294 00000 n 
+0000001356 00000 n 
+0000001463 00000 n 
+0000001575 00000 n 
+0000001680 00000 n 
+0000001758 00000 n 
+0000003223 00000 n 
+0000003458 00000 n 
+0000003659 00000 n 
+0000006364 00000 n 
+0000012206 00000 n 
+0000012407 00000 n 
+0000014162 00000 n 
+0000019314 00000 n 
+0000019515 00000 n 
+0000022048 00000 n 
+0000028017 00000 n 
+0000028218 00000 n 
+0000030507 00000 n 
+0000036584 00000 n 
+0000036785 00000 n 
+0000039680 00000 n 
+0000046401 00000 n 
+0000046602 00000 n 
+0000048662 00000 n 
+0000054939 00000 n 
+0000055140 00000 n 
+0000055663 00000 n 
+trailer
+<<
+/Size 34
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+56393
+%%EOF
